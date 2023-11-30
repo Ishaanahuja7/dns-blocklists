@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Nov 2023 11:07 UTC
-# Version: 2023.1129.1107.54
+# Last modified: 30 Nov 2023 23:01 UTC
+# Version: 2023.1130.2301.36
 # Syntax: Domains (without subdomains)
-# Number of entries: 2010
+# Number of entries: 2011
 #
 000a.de
 000space.com
@@ -582,6 +582,7 @@ cafeblog.hu
 campanamedicalcenter.it
 canalblog.com
 canariblogs.com
+canva.site
 cargifts.de
 carniceriacharcuterialucas.es
 carookee.com
