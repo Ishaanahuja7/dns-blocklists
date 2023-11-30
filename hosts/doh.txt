@@ -4,8 +4,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Nov 2023 11:03 UTC
-# Version: 2023.1129.1103.35
+# Last modified: 30 Nov 2023 22:57 UTC
+# Version: 2023.1130.2257.57
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 983
 #
@@ -583,6 +583,7 @@
 0.0.0.0 dns.justinnetworkingsolutions.com
 0.0.0.0 dns.k3nny.fr
 0.0.0.0 dns.kamilszczepanski.com
+0.0.0.0 adguard.kantinyoyok.xyz
 0.0.0.0 dns.karl.one
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kernel-error.de
@@ -945,7 +946,6 @@
 0.0.0.0 ines.zfn.uni-bremen.de
 0.0.0.0 galileo.math.unipd.it
 0.0.0.0 resolver.unstoppable.io
-0.0.0.0 dns.uplenk.com
 0.0.0.0 adfree.usableprivacy.net
 0.0.0.0 use-application-dns.net
 0.0.0.0 neatdns.ustclug.org
