@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701255660 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701384900 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Nov 2023 11:01 UTC
-; Version: 2023.1129.1101.21
+; Last modified: 30 Nov 2023 22:55 UTC
+; Version: 2023.1130.2255.36
 ; Syntax: RPZ
 ; Number of entries: 5326
 ;
@@ -2167,8 +2167,6 @@ unrestrictor.com CNAME .
 *.unrestrictor.com CNAME .
 untracer.com CNAME .
 *.untracer.com CNAME .
-dns.uplenk.com CNAME .
-*.dns.uplenk.com CNAME .
 ur-browser.com CNAME .
 *.ur-browser.com CNAME .
 urban-vpn.com CNAME .
@@ -5281,6 +5279,8 @@ tj.jamesxue.xyz CNAME .
 *.tj.jamesxue.xyz CNAME .
 judua3rtinpst0s.xyz CNAME .
 *.judua3rtinpst0s.xyz CNAME .
+adguard.kantinyoyok.xyz CNAME .
+*.adguard.kantinyoyok.xyz CNAME .
 mobrain.xyz CNAME .
 *.mobrain.xyz CNAME .
 ninjaweb.xyz CNAME .
