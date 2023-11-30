@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 29 Nov 2023 11:30 UTC
-! Version: 2023.1129.1130.59
+! Last modified: 30 Nov 2023 23:24 UTC
+! Version: 2023.1130.2324.14
 ! Syntax: AdBlock
-! Number of entries: 14084
+! Number of entries: 14088
 !
 ||01discount.com^
 ||11trikots.com^
@@ -3615,6 +3615,7 @@
 ||europamtb.com^
 ||europarealestate.eu^
 ||europe-electro-shop.com^
+||bmw.europe-moto.com^
 ||europe-pharm.net^
 ||europe-solarstore.com^
 ||europeangeneric.com^
@@ -8397,6 +8398,7 @@
 ||nursingaccessoriesstore.com^
 ||nutripurde.com^
 ||nuttytoolpart.com^
+||nuubu.com^
 ||nuxxu.de^
 ||nv-marketing.de^
 ||nvgtndeutschland.de^
@@ -9118,6 +9120,7 @@
 ||petcompetent.com^
 ||peterhobbies.shop^
 ||peterlindenberg.de^
+||peters-berlin.com^
 ||peters-insurance.de^
 ||peters-reifen.com^
 ||petersen-reifen.com^
@@ -12746,6 +12749,7 @@
 ||trikotsale.de^
 ||trikotsneue.de^
 ||trilavora.com^
+||trillant.com^
 ||trimzy.de^
 ||trinaturkwear.com^
 ||trinitywelpenzuhause.de^

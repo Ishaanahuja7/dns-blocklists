@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 Nov 2023 11:30 UTC
-# Version: 2023.1129.1130.59
+# Last modified: 30 Nov 2023 23:24 UTC
+# Version: 2023.1130.2324.14
 # Syntax: DNSMasq
-# Number of entries: 14084
+# Number of entries: 14088
 #
 address=/01discount.com/#
 address=/11trikots.com/#
@@ -3615,6 +3615,7 @@ address=/europamarket.de/#
 address=/europamtb.com/#
 address=/europarealestate.eu/#
 address=/europe-electro-shop.com/#
+address=/bmw.europe-moto.com/#
 address=/europe-pharm.net/#
 address=/europe-solarstore.com/#
 address=/europeangeneric.com/#
@@ -8397,6 +8398,7 @@ address=/nurseryfurnitures.com/#
 address=/nursingaccessoriesstore.com/#
 address=/nutripurde.com/#
 address=/nuttytoolpart.com/#
+address=/nuubu.com/#
 address=/nuxxu.de/#
 address=/nv-marketing.de/#
 address=/nvgtndeutschland.de/#
@@ -9118,6 +9120,7 @@ address=/pet-wings.com/#
 address=/petcompetent.com/#
 address=/peterhobbies.shop/#
 address=/peterlindenberg.de/#
+address=/peters-berlin.com/#
 address=/peters-insurance.de/#
 address=/peters-reifen.com/#
 address=/petersen-reifen.com/#
@@ -12746,6 +12749,7 @@ address=/trikots4u.com/#
 address=/trikotsale.de/#
 address=/trikotsneue.de/#
 address=/trilavora.com/#
+address=/trillant.com/#
 address=/trimzy.de/#
 address=/trinaturkwear.com/#
 address=/trinitywelpenzuhause.de/#

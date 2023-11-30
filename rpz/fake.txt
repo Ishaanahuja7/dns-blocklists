@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701257400 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701386640 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 Nov 2023 11:30 UTC
-; Version: 2023.1129.1130.59
+; Last modified: 30 Nov 2023 23:24 UTC
+; Version: 2023.1130.2324.14
 ; Syntax: RPZ
-; Number of entries: 28168
+; Number of entries: 28176
 ;
 markt.agency CNAME .
 *.markt.agency CNAME .
@@ -5732,6 +5732,8 @@ europamtb.com CNAME .
 *.europamtb.com CNAME .
 europe-electro-shop.com CNAME .
 *.europe-electro-shop.com CNAME .
+bmw.europe-moto.com CNAME .
+*.bmw.europe-moto.com CNAME .
 europe-solarstore.com CNAME .
 *.europe-solarstore.com CNAME .
 europeangeneric.com CNAME .
@@ -11630,6 +11632,8 @@ nutripurde.com CNAME .
 *.nutripurde.com CNAME .
 nuttytoolpart.com CNAME .
 *.nuttytoolpart.com CNAME .
+nuubu.com CNAME .
+*.nuubu.com CNAME .
 nvgtngermany.com CNAME .
 *.nvgtngermany.com CNAME .
 nvgtnshopdeutschland.com CNAME .
@@ -12706,6 +12710,8 @@ pet-wings.com CNAME .
 *.pet-wings.com CNAME .
 petcompetent.com CNAME .
 *.petcompetent.com CNAME .
+peters-berlin.com CNAME .
+*.peters-berlin.com CNAME .
 peters-reifen.com CNAME .
 *.peters-reifen.com CNAME .
 petersen-reifen.com CNAME .
@@ -17650,6 +17656,8 @@ trikots4u.com CNAME .
 *.trikots4u.com CNAME .
 trilavora.com CNAME .
 *.trilavora.com CNAME .
+trillant.com CNAME .
+*.trillant.com CNAME .
 trinaturkwear.com CNAME .
 *.trinaturkwear.com CNAME .
 trinodro.com CNAME .
