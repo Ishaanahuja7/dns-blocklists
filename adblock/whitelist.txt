@@ -10,7 +10,7 @@
 ! Bild.de
 @@|www.asadcdn.com^
 ! Bild.de/ Paramount+ saving the video progress
-@@|tags.tiqcdn.com^
+@@||tags.tiqcdn.com^
 
 ! Express.de Videos
 @@|player-feedback-v1.glomex.com^
@@ -5774,4 +5774,7 @@
 
 ! https://github.com/hagezi/dns-blocklists/issues/1880
 @@|ntp.jst.mfeed.ad.jp^
+
+! Delivery Tracking
+@@|track.earlybird.se^
 

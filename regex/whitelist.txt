@@ -399,6 +399,7 @@
 /(\.|^)sweet\.tv$/
 /(\.|^)syn\-alias\.com$/
 /(\.|^)syndication\.twitter\.com$/
+/(\.|^)tags\.tiqcdn\.com$/
 /(\.|^)teams\.live\.com$/
 /(\.|^)teams\.microsoft\.com$/
 /^.*telemetry\..*oraclecloud\.com$/

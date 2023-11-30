@@ -127,7 +127,6 @@
 (\.|^)createsend1\.com$
 (\.|^)cse3\.chausport\.com$
 (\.|^)ct\.impactradius\.com$
-(\.|^)ct\.klclick\.com$
 (\.|^)c\.trackmytarget\.com$
 (\.|^)cts\.businesswire\.com$
 (\.|^)ct\.sendgrid\.net$
@@ -178,6 +177,10 @@
 (\.|^)hubspotemail\.net$
 (\.|^)jdoqocy\.com$
 (\.|^)k\.cocooncenter\.com$
+(\.|^)klclick1\.com$
+(\.|^)klclick2\.com$
+(\.|^)klclick3\.com$
+(\.|^)klclick\.com$
 (\.|^)kqzyfj\.com$
 (\.|^)l\.accesslinkk\.com$
 (\.|^)lddy\.no$
@@ -314,7 +317,6 @@
 (\.|^)track\.smtp2go\.net$
 (\.|^)track.*\.webgains\.team$
 (\.|^)trk\.ecomm\.lenovo\.com$
-(\.|^)trk\.klclick.*\.com$
 (\.|^)t\.sidekickopen.*\.com$
 (\.|^)ue\.flipboard\.com$
 (\.|^)ulink\.adjust\.com$

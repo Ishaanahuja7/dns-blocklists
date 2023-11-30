@@ -207,8 +207,10 @@
 @@||click.justwatch.com^
 @@||www.kdukvh.com^
 @@||*-go.kelkoogroup.net^
-@@||ct.klclick.com^
-@@||trk.klclick*.com^
+@@||klclick.com^
+@@||klclick1.com^
+@@||klclick2.com^
+@@||klclick3.com^
 @@||click.chp.kohls.com^
 @@||click.s.kohls.com^
 @@||click.e.krogermail.com^
@@ -334,4 +336,3 @@
 @@||track.glovoapp.com^
 @@||bestbuy.7tiv.net^
 @@||track.canva.com^
-
