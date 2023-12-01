@@ -5287,3 +5287,15 @@ ntp.jst.mfeed.ad.jp
 # Delivery Tracking
 track.earlybird.se
 
+# EaseUS Software Activation
+activation.easeus.com
+
+# Zoom
+zpns.zoom.us
+zpns-byoip-va.zoom.us
+
+# https://github.com/hagezi/dns-blocklists/issues/1887
+info.mediapart.fr
+clients.fft.fr
+stream.proxad.net
+

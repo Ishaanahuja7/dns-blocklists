@@ -1122,7 +1122,6 @@
 @@||popm.ch^
 @@||pops.ci^
 @@||posh.mk^
-@@||postdispat.ch^
 @@||ppfr.it^
 @@||pplx.ai^
 @@||ppst.me^

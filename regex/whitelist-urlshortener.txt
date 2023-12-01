@@ -1182,7 +1182,6 @@
 /(\.|^)pops\.ci$/
 /(\.|^)posh\.mk$/
 /(\.|^)po\.st$/
-/(\.|^)postdispat\.ch$/
 /(\.|^)ppfr\.it$/
 /(\.|^)pplx\.ai$/
 /(\.|^)ppst\.me$/
