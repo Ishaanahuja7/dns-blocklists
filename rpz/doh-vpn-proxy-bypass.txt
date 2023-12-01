@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701384900 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701471840 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 30 Nov 2023 22:55 UTC
-; Version: 2023.1130.2255.36
+; Last modified: 01 Dec 2023 23:04 UTC
+; Version: 2023.1201.2304.08
 ; Syntax: RPZ
-; Number of entries: 5326
+; Number of entries: 5330
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -399,6 +399,8 @@ doh.dns.apple.com.v.aaplimg.com CNAME .
 *.doh.dns.apple.com.v.aaplimg.com CNAME .
 dns.aaytorr.com CNAME .
 *.dns.aaytorr.com CNAME .
+abcproxy.com CNAME .
+*.abcproxy.com CNAME .
 acdtop.com CNAME .
 *.acdtop.com CNAME .
 aceproxy.com CNAME .
@@ -2055,6 +2057,8 @@ totovps.com CNAME .
 *.totovps.com CNAME .
 towervpn.com CNAME .
 *.towervpn.com CNAME .
+traffmonetizer.com CNAME .
+*.traffmonetizer.com CNAME .
 consumervpn.trendmicro.com CNAME .
 *.consumervpn.trendmicro.com CNAME .
 geovpn.trendmicro.com CNAME .
@@ -2167,6 +2171,8 @@ unrestrictor.com CNAME .
 *.unrestrictor.com CNAME .
 untracer.com CNAME .
 *.untracer.com CNAME .
+dns.uplenk.com CNAME .
+*.dns.uplenk.com CNAME .
 ur-browser.com CNAME .
 *.ur-browser.com CNAME .
 urban-vpn.com CNAME .
@@ -2803,8 +2809,6 @@ wez.fr CNAME .
 *.wez.fr CNAME .
 adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
-ag.brianlee.fun CNAME .
-*.ag.brianlee.fun CNAME .
 gecko.fun CNAME .
 *.gecko.fun CNAME .
 jcdns.fun CNAME .
