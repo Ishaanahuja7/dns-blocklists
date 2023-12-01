@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701385020 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701471960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 30 Nov 2023 22:57 UTC
-; Version: 2023.1130.2257.57
+; Last modified: 01 Dec 2023 23:06 UTC
+; Version: 2023.1201.2306.35
 ; Syntax: RPZ
 ; Number of entries: 1682
 ;
@@ -547,6 +547,8 @@ typaza.com CNAME .
 *.typaza.com CNAME .
 dns.umbrella.com CNAME .
 *.dns.umbrella.com CNAME .
+dns.uplenk.com CNAME .
+*.dns.uplenk.com CNAME .
 dns.vishalk.com CNAME .
 *.dns.vishalk.com CNAME .
 wantaquddin.com CNAME .
@@ -761,8 +763,6 @@ pates.services.sfr.fr.casepp.sfr.fr CNAME .
 *.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 adb-home.xaoimoon.fr CNAME .
 *.adb-home.xaoimoon.fr CNAME .
-ag.brianlee.fun CNAME .
-*.ag.brianlee.fun CNAME .
 jcdns.fun CNAME .
 *.jcdns.fun CNAME .
 cloud.198.games CNAME .

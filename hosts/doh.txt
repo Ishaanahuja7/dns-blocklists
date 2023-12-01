@@ -4,8 +4,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Nov 2023 22:57 UTC
-# Version: 2023.1130.2257.57
+# Last modified: 01 Dec 2023 23:06 UTC
+# Version: 2023.1201.2306.35
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 983
 #
@@ -175,7 +175,6 @@
 0.0.0.0 bravedns.com
 0.0.0.0 basic.bravedns.com
 0.0.0.0 free.bravedns.com
-0.0.0.0 ag.brianlee.fun
 0.0.0.0 doh.bt.com
 0.0.0.0 c-dns.com
 0.0.0.0 www.c-dns.com
@@ -946,6 +945,7 @@
 0.0.0.0 ines.zfn.uni-bremen.de
 0.0.0.0 galileo.math.unipd.it
 0.0.0.0 resolver.unstoppable.io
+0.0.0.0 dns.uplenk.com
 0.0.0.0 adfree.usableprivacy.net
 0.0.0.0 use-application-dns.net
 0.0.0.0 neatdns.ustclug.org

@@ -4,8 +4,8 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Nov 2023 22:57 UTC
-# Version: 2023.1130.2257.57
+# Last modified: 01 Dec 2023 23:06 UTC
+# Version: 2023.1201.2306.35
 # Syntax: DNSMasq
 # Number of entries: 841
 #
@@ -141,7 +141,6 @@ address=/doh.bortzmeyer.fr/#
 address=/cloudns.bosco.ovh/#
 address=/dns.brahma.world/#
 address=/bravedns.com/#
-address=/ag.brianlee.fun/#
 address=/doh.bt.com/#
 address=/c-dns.com/#
 address=/2.dnscrypt-cert.captnemo.in/#
@@ -809,6 +808,7 @@ address=/dns.unerror.network/#
 address=/ines.zfn.uni-bremen.de/#
 address=/galileo.math.unipd.it/#
 address=/resolver.unstoppable.io/#
+address=/dns.uplenk.com/#
 address=/adfree.usableprivacy.net/#
 address=/use-application-dns.net/#
 address=/neatdns.ustclug.org/#
