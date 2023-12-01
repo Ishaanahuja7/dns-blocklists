@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701256200 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701472260 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 29 Nov 2023 11:10 UTC
-; Version: 2023.1129.1110.09
+; Last modified: 01 Dec 2023 23:11 UTC
+; Version: 2023.1201.2311.45
 ; Syntax: RPZ
-; Number of entries: 21256
+; Number of entries: 21254
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -19270,8 +19270,6 @@ thepiratebay2.to CNAME .
 *.thepiratebay2.to CNAME .
 thepiratebay3.to CNAME .
 *.thepiratebay3.to CNAME .
-tracker.therarbg.to CNAME .
-*.tracker.therarbg.to CNAME .
 ti.to CNAME .
 *.ti.to CNAME .
 tinyzonetv.to CNAME .
