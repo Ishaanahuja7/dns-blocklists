@@ -5790,3 +5790,11 @@
 @@|clients.fft.fr^
 @@|stream.proxad.net^
 
+! https://github.com/hagezi/dns-blocklists/issues/1744#issuecomment-1837149643
+@@|magiskcn.com^
+@@|www.magiskcn.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1889
+@@|iptools.su^
+@@|www.iptools.su^
+

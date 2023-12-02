@@ -5299,3 +5299,9 @@ info.mediapart.fr
 clients.fft.fr
 stream.proxad.net
 
+# https://github.com/hagezi/dns-blocklists/issues/1744#issuecomment-1837149643
+magiskcn.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1889
+iptools.su
+
