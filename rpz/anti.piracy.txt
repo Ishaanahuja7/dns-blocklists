@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701472260 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701558900 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 01 Dec 2023 23:11 UTC
-; Version: 2023.1201.2311.45
+; Last modified: 02 Dec 2023 23:15 UTC
+; Version: 2023.1202.2315.51
 ; Syntax: RPZ
-; Number of entries: 21254
+; Number of entries: 21246
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -938,8 +938,6 @@ guardaserie.business CNAME .
 *.1337x.buzz CNAME .
 5movies.buzz CNAME .
 *.5movies.buzz CNAME .
-altadefinizione.buzz CNAME .
-*.altadefinizione.buzz CNAME .
 eurostreaming.buzz CNAME .
 *.eurostreaming.buzz CNAME .
 filmstreaming.buzz CNAME .
@@ -1124,6 +1122,8 @@ tantifilm.cam CNAME .
 *.tantifilm.cam CNAME .
 thepiratebay.cam CNAME .
 *.thepiratebay.cam CNAME .
+torrentkitty.cam CNAME .
+*.torrentkitty.cam CNAME .
 unblockit.cam CNAME .
 *.unblockit.cam CNAME .
 zalukaj.cam CNAME .
@@ -2766,8 +2766,6 @@ animetorrents.com CNAME .
 *.animetorrents.com CNAME .
 animex.com CNAME .
 *.animex.com CNAME .
-animixplay.com CNAME .
-*.animixplay.com CNAME .
 anipt.com CNAME .
 *.anipt.com CNAME .
 anirena.com CNAME .
@@ -8906,6 +8904,8 @@ ftuapps.dev CNAME .
 *.ftuapps.dev CNAME .
 1337x.pages.dev CNAME .
 *.1337x.pages.dev CNAME .
+1337x-to.pages.dev CNAME .
+*.1337x-to.pages.dev CNAME .
 hdmoviesflix.pages.dev CNAME .
 *.hdmoviesflix.pages.dev CNAME .
 piratebayproxy.pages.dev CNAME .
@@ -9054,8 +9054,6 @@ tantifilm.energy CNAME .
 *.tantifilm.energy CNAME .
 alldebrid.es CNAME .
 *.alldebrid.es CNAME .
-altadefinizione.es CNAME .
-*.altadefinizione.es CNAME .
 animebyt.es CNAME .
 *.animebyt.es CNAME .
 channelstream.es CNAME .
@@ -10656,6 +10654,8 @@ solarmovie.ink CNAME .
 *.solarmovie.ink CNAME .
 streamingcommunity.ink CNAME .
 *.streamingcommunity.ink CNAME .
+torrentkitty.ink CNAME .
+*.torrentkitty.ink CNAME .
 open.tracker.ink CNAME .
 *.open.tracker.ink CNAME .
 unblockproject.ink CNAME .
@@ -11234,8 +11234,6 @@ altadefinizione.li CNAME .
 *.altadefinizione.li CNAME .
 audiobookbay.li CNAME .
 *.audiobookbay.li CNAME .
-cb01.li CNAME .
-*.cb01.li CNAME .
 filmpertutti.li CNAME .
 *.filmpertutti.li CNAME .
 filmsenzalimiti.li CNAME .
@@ -17334,8 +17332,6 @@ guardaserie.report CNAME .
 *.guardaserie.report CNAME .
 altadefinizione01.rest CNAME .
 *.altadefinizione01.rest CNAME .
-casacinema.rest CNAME .
-*.casacinema.rest CNAME .
 cineblog01.rest CNAME .
 *.cineblog01.rest CNAME .
 eurostreaming.rest CNAME .
@@ -18644,8 +18640,6 @@ wawacity.su CNAME .
 *.wawacity.su CNAME .
 123movies.support CNAME .
 *.123movies.support CNAME .
-cb01.support CNAME .
-*.cb01.support CNAME .
 eurostreaming.support CNAME .
 *.eurostreaming.support CNAME .
 eurostreaming.surf CNAME .
@@ -20298,8 +20292,6 @@ streamingcommunity.video CNAME .
 *.streamingcommunity.video CNAME .
 altadefinizione01.vin CNAME .
 *.altadefinizione01.vin CNAME .
-cb01.vin CNAME .
-*.cb01.vin CNAME .
 cineblog01.vin CNAME .
 *.cineblog01.vin CNAME .
 filmstreaming.vin CNAME .

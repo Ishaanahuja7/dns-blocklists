@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 01 Dec 2023 23:11 UTC
-# Version: 2023.1201.2311.45
+# Last modified: 02 Dec 2023 23:15 UTC
+# Version: 2023.1202.2315.51
 # Syntax: DNSMasq
-# Number of entries: 10627
+# Number of entries: 10623
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -548,7 +548,6 @@ address=/altadefinizione.blue/#
 address=/altadefinizione.bond/#
 address=/altadefinizione.boo/#
 address=/altadefinizione.boutique/#
-address=/altadefinizione.buzz/#
 address=/altadefinizione.bz/#
 address=/altadefinizione.cab/#
 address=/altadefinizione.cafe/#
@@ -591,7 +590,6 @@ address=/altadefinizione.deals/#
 address=/altadefinizione.delivery/#
 address=/altadefinizione.desi/#
 address=/altadefinizione.download/#
-address=/altadefinizione.es/#
 address=/altadefinizione.estate/#
 address=/altadefinizione.eu/#
 address=/altadefinizione.exchange/#
@@ -930,7 +928,6 @@ address=/animeworld.tv/#
 address=/animex.com/#
 address=/animeyt.moe/#
 address=/animeyume.org/#
-address=/animixplay.com/#
 address=/animixplay.to/#
 address=/aninow.net/#
 address=/anipt.com/#
@@ -1709,7 +1706,6 @@ address=/casacinema.org/#
 address=/casacinema.page/#
 address=/casacinema.pics/#
 address=/casacinema.red/#
-address=/casacinema.rest/#
 address=/casacinema.ru/#
 address=/casacinema.site/#
 address=/casacinema.skin/#
@@ -1821,7 +1817,6 @@ address=/cb01.kaufen/#
 address=/cb01.kids/#
 address=/cb01.land/#
 address=/cb01.lat/#
-address=/cb01.li/#
 address=/cb01.life/#
 address=/cb01.limo/#
 address=/cb01.link/#
@@ -1881,7 +1876,6 @@ address=/cb01.store/#
 address=/cb01.studio/#
 address=/cb01.study/#
 address=/cb01.su/#
-address=/cb01.support/#
 address=/cb01.systems/#
 address=/cb01.tattoo/#
 address=/cb01.taxi/#
@@ -1903,7 +1897,6 @@ address=/cb01.vc/#
 address=/cb01.vet/#
 address=/cb01.vg/#
 address=/cb01.video/#
-address=/cb01.vin/#
 address=/cb01.vip/#
 address=/cb01.vision/#
 address=/cb01.wales/#
@@ -6881,6 +6874,7 @@ address=/p4pirate.xyz/#
 address=/zooqle.p4y.space/#
 address=/tracker.packetstorm.ch/#
 address=/1337x.pages.dev/#
+address=/1337x-to.pages.dev/#
 address=/hdmoviesflix.pages.dev/#
 address=/piratebayproxy.pages.dev/#
 address=/rarbg.pages.dev/#
@@ -9223,6 +9217,8 @@ address=/torrentit.com/#
 address=/torrentking.io/#
 address=/torrentkit.com/#
 address=/torrentkitty.app/#
+address=/torrentkitty.cam/#
+address=/torrentkitty.ink/#
 address=/torrentkitty.la/#
 address=/torrentkitty.me/#
 address=/torrentkitty.net/#
