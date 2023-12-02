@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 30 Nov 2023 23:01 UTC
-! Version: 2023.1130.2301.36
+! Last modified: 02 Dec 2023 23:13 UTC
+! Version: 2023.1202.2313.27
 ! Syntax: AdBlock
-! Number of entries: 2011
+! Number of entries: 2005
 !
 ||000a.de^
 ||000space.com^
@@ -242,8 +242,6 @@
 ||anschiessen.de^
 ||answerblogs.com^
 ||antonellagiallonardo.it^
-||antonio-decaro.it^
-||april4business.it^
 ||ar.gp^
 ||arcadepages.com^
 ||arcor-ip.net^
@@ -253,7 +251,6 @@
 ||articlesblogger.com^
 ||arwebo.com^
 ||asablo.jp^
-||asdvaldruento.it^
 ||asia.cm^
 ||asia.gp^
 ||assonenuphar.fr^
@@ -274,7 +271,6 @@
 ||autooskup.pl^
 ||autopartner-doebert.de^
 ||avablog.ir^
-||avisborgosanmartino.it^
 ||aw3.de^
 ||awardspace.biz^
 ||awardspace.com^
@@ -567,7 +563,6 @@
 ||business.site^
 ||busythumbs.com^
 ||buttobi.net^
-||buycare.it^
 ||buyoutblog.com^
 ||bx5.de^
 ||byet.host^
@@ -579,7 +574,6 @@
 ||c.pl^
 ||ca.gp^
 ||cafeblog.hu^
-||campanamedicalcenter.it^
 ||canalblog.com^
 ||canariblogs.com^
 ||canva.site^

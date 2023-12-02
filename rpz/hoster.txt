@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701385260 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701558780 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 30 Nov 2023 23:01 UTC
-; Version: 2023.1130.2301.36
+; Last modified: 02 Dec 2023 23:13 UTC
+; Version: 2023.1202.2313.27
 ; Syntax: RPZ
-; Number of entries: 4022
+; Number of entries: 4010
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2752,16 +2752,8 @@ blogspot.is CNAME .
 *.135.it CNAME .
 antonellagiallonardo.it CNAME .
 *.antonellagiallonardo.it CNAME .
-antonio-decaro.it CNAME .
-*.antonio-decaro.it CNAME .
-april4business.it CNAME .
-*.april4business.it CNAME .
 artementenotizie.it CNAME .
 *.artementenotizie.it CNAME .
-asdvaldruento.it CNAME .
-*.asdvaldruento.it CNAME .
-avisborgosanmartino.it CNAME .
-*.avisborgosanmartino.it CNAME .
 beepworld.it CNAME .
 *.beepworld.it CNAME .
 blogs.it CNAME .
@@ -2770,10 +2762,6 @@ blogspot.it CNAME .
 *.blogspot.it CNAME .
 boscorosso.it CNAME .
 *.boscorosso.it CNAME .
-buycare.it CNAME .
-*.buycare.it CNAME .
-campanamedicalcenter.it CNAME .
-*.campanamedicalcenter.it CNAME .
 cesapsrls.it CNAME .
 *.cesapsrls.it CNAME .
 comitatiquartierebergamo.it CNAME .

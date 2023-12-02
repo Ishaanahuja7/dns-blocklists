@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 30 Nov 2023 23:01 UTC
-# Version: 2023.1130.2301.36
+# Last modified: 02 Dec 2023 23:13 UTC
+# Version: 2023.1202.2313.27
 # Syntax: DNSMasq
-# Number of entries: 2011
+# Number of entries: 2005
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -242,8 +242,6 @@ address=/anschauen.in/#
 address=/anschiessen.de/#
 address=/answerblogs.com/#
 address=/antonellagiallonardo.it/#
-address=/antonio-decaro.it/#
-address=/april4business.it/#
 address=/ar.gp/#
 address=/arcadepages.com/#
 address=/arcor-ip.net/#
@@ -253,7 +251,6 @@ address=/artementenotizie.it/#
 address=/articlesblogger.com/#
 address=/arwebo.com/#
 address=/asablo.jp/#
-address=/asdvaldruento.it/#
 address=/asia.cm/#
 address=/asia.gp/#
 address=/assonenuphar.fr/#
@@ -274,7 +271,6 @@ address=/auto.lc/#
 address=/autooskup.pl/#
 address=/autopartner-doebert.de/#
 address=/avablog.ir/#
-address=/avisborgosanmartino.it/#
 address=/aw3.de/#
 address=/awardspace.biz/#
 address=/awardspace.com/#
@@ -567,7 +563,6 @@ address=/builtfree.org/#
 address=/business.site/#
 address=/busythumbs.com/#
 address=/buttobi.net/#
-address=/buycare.it/#
 address=/buyoutblog.com/#
 address=/bx5.de/#
 address=/byet.host/#
@@ -579,7 +574,6 @@ address=/c.la/#
 address=/c.pl/#
 address=/ca.gp/#
 address=/cafeblog.hu/#
-address=/campanamedicalcenter.it/#
 address=/canalblog.com/#
 address=/canariblogs.com/#
 address=/canva.site/#
