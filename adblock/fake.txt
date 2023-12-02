@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 01 Dec 2023 23:34 UTC
-! Version: 2023.1201.2334.42
+! Last modified: 02 Dec 2023 23:39 UTC
+! Version: 2023.1202.2339.01
 ! Syntax: AdBlock
-! Number of entries: 13848
+! Number of entries: 13812
 !
 ||01discount.com^
 ||11trikots.com^
@@ -157,7 +157,6 @@
 ||adornedgems.com^
 ||adreim.de^
 ||adrian-beck.de^
-||adrianschwaiger.at^
 ||adultfunoff.com^
 ||advancedprofit.cc^
 ||advancesecurity.de^
@@ -186,7 +185,6 @@
 ||agence-dbg.fr^
 ||agencelecontexte.com^
 ||agencetimmo.fr^
-||agiler-spielraum.at^
 ||agodaymall.com^
 ||agriram.es^
 ||agro-garten-market.de^
@@ -201,7 +199,6 @@
 ||aigleoutletdeutschland.com^
 ||aigleoutletuk.com^
 ||aim-assist.de^
-||air-jordan4.com^
 ||aircargo-logistics.com^
 ||airguncapital.com^
 ||airjordan.at^
@@ -270,7 +267,6 @@
 ||algopro.us^
 ||algortrading.vip^
 ||aliasboards.de^
-||alibardo.it^
 ||alienoa.de^
 ||all-roundgeneral.com^
 ||all-roundsurfsale.com^
@@ -325,7 +321,6 @@
 ||aloyogasale.de^
 ||alpakafreunde.de^
 ||alpbeat.com^
-||alpen-malerbetrieb.de^
 ||alpha-gartentraum.de^
 ||alpha-logis.de^
 ||alphagamers.de^
@@ -379,7 +374,6 @@
 ||ambileds.de^
 ||ambushcheap.com^
 ||amcstylish.com^
-||amcw-photovoltaik.de^
 ||amellys-damenboutique.de^
 ||americamedsolutions.com^
 ||american-foods.org^
@@ -437,8 +431,6 @@
 ||animationsummer.at^
 ||animestorify.com^
 ||anklebootsstoreshop.com^
-||anlagenberatung.at^
-||anmachholz.com^
 ||annafmodern.com^
 ||annatoolshop.com^
 ||annebarot.com^
@@ -490,7 +482,6 @@
 ||apotheke-neu.com^
 ||apotheke-ratgh-heumar.de^
 ||apotheke-rezeptfrei.com^
-||apotheke-rezeptfrei.eu^
 ||apotheke-schweiz.net^
 ||apotheke24eu.de^
 ||apotheke4all.is^
@@ -569,7 +560,6 @@
 ||arcteryxoutletdeutschland.com^
 ||arcteryxoutletdeutschland.de^
 ||ardesign.at^
-||ardora.at^
 ||area-fashion.com^
 ||arenaswimstore.com^
 ||aresc.de^
@@ -687,7 +677,6 @@
 ||audienticys.com^
 ||audistro-deutschland.com^
 ||auditstandart.ru^
-||audosi.net^
 ||aufladekarten24.de^
 ||aufsperrdienst-24.at^
 ||aufsperrdienst-hilfe.at^
@@ -816,7 +805,6 @@
 ||autostyles.store^
 ||autozubehr.com^
 ||autry-deutschland.de^
-||autry-schweiz.com^
 ||autrydeutschland.com^
 ||autrydeutschland.de^
 ||autrysale.de^
@@ -919,7 +907,6 @@
 ||bakerrabatt.de^
 ||bakewarebrand.com^
 ||bakingutensilsale.com^
-||balance-leben.at^
 ||balenciagaaustria.at^
 ||balla-gartenbau.de^
 ||ballgamesdeal.com^
@@ -939,11 +926,9 @@
 ||bamelabuy.shop^
 ||bandairctoy.com^
 ||bankdjournalsur.com^
-||trader.bankwiz.net^
 ||bape.at^
 ||bapegermany.com^
 ||bapeoutfits.com^
-||barbaravonfrisch.at^
 ||barbour-osterreich.com^
 ||barbouraustria.at^
 ||barbourfashion.com^
@@ -1032,7 +1017,6 @@
 ||bbq-qonix.de^
 ||bbqingshop.com^
 ||bbt-handel.de^
-||bbworthodontic.at^
 ||bc-rheine.de^
 ||bcbock.shop^
 ||bcfe-groupe.com^
@@ -1057,7 +1041,6 @@
 ||beautyaskin.com^
 ||beautydreams24.com^
 ||beautyfashionus.com^
-||beautygiftsets.com^
 ||beautypassword.com^
 ||beautystudioceline.de^
 ||beautyussite.com^
@@ -1131,7 +1114,6 @@
 ||berlinbeardeal.de^
 ||berliner-laden.de^
 ||berlinerwerke.de^
-||berlinpellets.com^
 ||berndt-reifen.com^
 ||berndt-reifenhandel.shop^
 ||berndundgiselarenz.de^
@@ -1169,7 +1151,6 @@
 ||besteckstore.com^
 ||bestefahrrad.de^
 ||besteholzlager.com^
-||besteke.com^
 ||bestelektronicshop.de^
 ||bestemarkt.com^
 ||bestemeds.com^
@@ -1342,7 +1323,6 @@
 ||bikinienjoy.com^
 ||bilbacio.com^
 ||bilbishop.com^
-||bildhauerbergwerk.at^
 ||billabongaustria.at^
 ||billabongdeutschlandshop.com^
 ||billabongosterreich.com^
@@ -1361,7 +1341,6 @@
 ||bineflix.de^
 ||binotrader.com^
 ||bio-kammerjaeger.at^
-||bio-viertel.at^
 ||bioamsee.de^
 ||bioenergieheizung.com^
 ||biogaming.de^
@@ -1369,7 +1348,6 @@
 ||biologischestation.de^
 ||bioluxgmbh.com^
 ||biomecarefor.com^
-||bioresonanz-peham.at^
 ||bios-batterie-cmos.de^
 ||biranco.com^
 ||birdflix.de^
@@ -1462,7 +1440,6 @@
 ||blucontue.com^
 ||blue-immo.com^
 ||bluebellalingerie.com^
-||bluefanc.com^
 ||bluelineca.com^
 ||blueribbon.site^
 ||bluhm-reinhardt.de^
@@ -1578,7 +1555,6 @@
 ||boydesklamp.de^
 ||boyishdenim.com^
 ||bozok.at^
-||bparisfashion.com^
 ||bqallgemeinshop.com^
 ||bradfordcutlery.com^
 ||bradyplaza.com^
@@ -1621,7 +1597,6 @@
 ||bremsscheibende.com^
 ||brendaza.com^
 ||brendoza.com^
-||brennholmasfeld.com^
 ||brennholz-conrady.com^
 ||brennholz-fachhandel.com^
 ||brennholz-geschaft.com^
@@ -1636,7 +1611,6 @@
 ||brennholzkugler.com^
 ||brennholzplus-austria.com^
 ||brennholzrobinio.com^
-||brennholzrochlapaul.com^
 ||brennholzroman.com^
 ||brennholzshop24.com^
 ||brennholzverkaufer.com^
@@ -1646,9 +1620,7 @@
 ||bretttackle.space^
 ||breuer-reifenhandel.shop^
 ||breville.vip^
-||breyerwidy.at^
 ||brgab.com^
-||bricksb.com^
 ||bridclothing.shop^
 ||bridge-timmendorf.de^
 ||brilliant-photo.com^
@@ -1685,7 +1657,6 @@
 ||brutmarket.net^
 ||bryanbumgardner.com^
 ||brynakredit.com^
-||bs-productions.at^
 ||bseoyol.shop^
 ||bsm-consulting.de^
 ||bsqesch.shop^
@@ -1734,7 +1705,6 @@
 ||burtonsnowboard.de^
 ||busblech-shop.de^
 ||buscemischoenen.com^
-||business-analyse.at^
 ||busse-autoreifen.shop^
 ||busse-reifenhandel.com^
 ||bussler-rasenmaher.com^
@@ -1793,13 +1763,10 @@
 ||cairnoptical.com^
 ||cairnoutdoor.de^
 ||cairnsport.de^
-||caissetactile.store^
 ||calabra.de^
-||calcaterrachallenge.com^
 ||calderonbusiness.com^
 ||calishop.de^
 ||callitspringshoe.com^
-||calvarywelpenzuhaus.de^
 ||calvira.de^
 ||camafly.de^
 ||cambase-berlin.de^
@@ -1936,7 +1903,6 @@
 ||celivaa.de^
 ||celmak.de^
 ||celo-finance.com^
-||celticcyberjammies.com^
 ||cembierzo.com^
 ||cemboder.de^
 ||centebing.com^
@@ -1948,7 +1914,6 @@
 ||cetobit.com^
 ||ceurwa.com^
 ||cevobah.com^
-||ceylonss.com^
 ||cfashionus.com^
 ||cgeed.com^
 ||chabrie-verpackung.de^
@@ -1964,7 +1929,6 @@
 ||chance-chef.de^
 ||channeldecoration.com^
 ||chariot-sport.uk^
-||charisl.com^
 ||charlesdavidshoe.com^
 ||chartconsultings.com^
 ||chartistake.com^
@@ -1990,7 +1954,6 @@
 ||chefclearance.com^
 ||chefprovo.com^
 ||chefwearsale.com^
-||chemikalienkaufen.eu^
 ||chempirate.com^
 ||chervon-garten.de^
 ||cheshishop.com^
@@ -2089,7 +2052,6 @@
 ||ck-trans.com^
 ||ckonlinesale.store^
 ||claibornxi.ru^
-||clara-holz.com^
 ||clarasdad.de^
 ||shop.clarissanails-schweiz.ch^
 ||clarks-germany.com^
@@ -2102,7 +2064,6 @@
 ||clarksshopschweiz.com^
 ||clasicraft.com^
 ||classicbeaglepuppieshome.com^
-||classiccitychic.com^
 ||classicfinery.com^
 ||classy-furniture.com^
 ||classy-swimsuit.com^
@@ -2178,7 +2139,6 @@
 ||cnfashion.org^
 ||algorithmiccrypto.co.uk^
 ||bidabc.co.uk^
-||brunnenbau.co.at^
 ||carhirenice.co.uk^
 ||www.davidcoburnmep.co.uk^
 ||gaborsouthafrica.co.za^
@@ -3211,13 +3171,13 @@
 ||eisenwarensale-shop.com^
 ||eispiny.com^
 ||eisschild.com^
+||ekc-credit.com^
 ||ekehau.com^
 ||ekiz-volders.at^
 ||eko-gartenbauhandel.de^
 ||eko-group.de^
 ||eko-immo.com^
 ||ekolpo.com^
-||ekorafit.com^
 ||elaines.life^
 ||electracraftshop.com^
 ||electraproshop.com^
@@ -7774,6 +7734,7 @@
 ||muckschweiz.com^
 ||mueller-investment.com^
 ||muellerwelpen.com^
+||muenchen-sperrmuellservice.com^
 ||muenchenzelte.de^
 ||muffinsh.com^
 ||muhs-spielwaren.com^
@@ -7934,6 +7895,7 @@
 ||necmarkt.com^
 ||nederlandaanbieding.com^
 ||nederlandse-apotheek.com^
+||neepage.com^
 ||nellyneu.shop^
 ||nelpaid.com^
 ||nemino.net^
@@ -8902,6 +8864,7 @@
 ||partyclothesdeal.com^
 ||partykiste-undorf.de^
 ||pasadenablues.com^
+||pasarbali-malls.com^
 ||pasargadrugs.com^
 ||pascher.top^
 ||pass-blues-op.de^
@@ -12267,6 +12230,7 @@
 ||togclothes.com^
 ||togetherrxacces.com^
 ||tokenskeep.com^
+||toko999.net^
 ||tolle-technik.com^
 ||tolleelektronik.de^
 ||tollerladen.com^
