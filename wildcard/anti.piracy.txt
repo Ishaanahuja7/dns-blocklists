@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Dec 2023 23:15 UTC
-# Version: 2023.1202.2315.51
+# Last modified: 03 Dec 2023 23:08 UTC
+# Version: 2023.1203.2308.59
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 10623
+# Number of entries: 10622
 #
 *.blink-stresser.000webhostapp.com
 *.ddos-ovh-v6.000webhostapp.com
@@ -2229,7 +2229,6 @@
 *.piratebayportal.co.uk
 *.ts.populargamers.co.za
 *.premiumbyleo.co.cc
-*.psychocydd.co.uk
 *.send-file.co.uk
 *.www.smithstorrents.co.uk
 *.supremetorrents.co.uk
@@ -2641,7 +2640,6 @@
 *.deadfrog.us
 *.fe.dealclub.de
 *.deamonbytes.net
-*.deathlord.eu
 *.bttracker.debian.org
 *.debrid-link.fr
 *.debrideurstreaming.com
@@ -2696,7 +2694,6 @@
 *.devilwarez.pl
 *.devilwolfs.com
 *.deviousdevils.com
-*.devops.gay
 *.dex.email
 *.dezflight-underground.com
 *.dfichiers.com
@@ -2749,7 +2746,6 @@
 *.dinostreaming.vg
 *.dinostreaming.ws
 *.directdl.com
-*.directdl.org
 *.directoriowarez.com
 *.directvxx.com
 *.directwarez.com
@@ -4234,6 +4230,7 @@
 *.gazipurns.com
 *.tracker.gbitt.info
 *.tracker-udp.gbitt.info
+*.tracker.gcrreen.xyz
 *.tracker.gcvchp.com
 *.gdrivedl.xyz
 *.gdtorrent.com
@@ -5598,6 +5595,7 @@
 *.levidia.to
 *.up.li.ru
 *.libble.com
+*.yolo.liberbear.com
 *.liberty-land.net
 *.libertyland.al
 *.libertyland.one
@@ -7626,6 +7624,7 @@
 *.reprobate.se
 *.request.rip
 *.requestcracks.com
+*.bt.rer.lol
 *.residentz.cx
 *.torrent.resonatingmedia.com
 *.respawn.ca

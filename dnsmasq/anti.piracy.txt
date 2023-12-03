@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Dec 2023 23:15 UTC
-# Version: 2023.1202.2315.51
+# Last modified: 03 Dec 2023 23:08 UTC
+# Version: 2023.1203.2308.59
 # Syntax: DNSMasq
-# Number of entries: 10623
+# Number of entries: 10622
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -2229,7 +2229,6 @@ address=/piratebaynew.co.uk/#
 address=/piratebayportal.co.uk/#
 address=/ts.populargamers.co.za/#
 address=/premiumbyleo.co.cc/#
-address=/psychocydd.co.uk/#
 address=/send-file.co.uk/#
 address=/www.smithstorrents.co.uk/#
 address=/supremetorrents.co.uk/#
@@ -2641,7 +2640,6 @@ address=/deaddrops.com/#
 address=/deadfrog.us/#
 address=/fe.dealclub.de/#
 address=/deamonbytes.net/#
-address=/deathlord.eu/#
 address=/bttracker.debian.org/#
 address=/debrid-link.fr/#
 address=/debrideurstreaming.com/#
@@ -2696,7 +2694,6 @@ address=/deviloid.net/#
 address=/devilwarez.pl/#
 address=/devilwolfs.com/#
 address=/deviousdevils.com/#
-address=/devops.gay/#
 address=/dex.email/#
 address=/dezflight-underground.com/#
 address=/dfichiers.com/#
@@ -2749,7 +2746,6 @@ address=/dinostreaming.music/#
 address=/dinostreaming.vg/#
 address=/dinostreaming.ws/#
 address=/directdl.com/#
-address=/directdl.org/#
 address=/directoriowarez.com/#
 address=/directvxx.com/#
 address=/directwarez.com/#
@@ -4234,6 +4230,7 @@ address=/gazellegames.net/#
 address=/gazipurns.com/#
 address=/tracker.gbitt.info/#
 address=/tracker-udp.gbitt.info/#
+address=/tracker.gcrreen.xyz/#
 address=/tracker.gcvchp.com/#
 address=/gdrivedl.xyz/#
 address=/gdtorrent.com/#
@@ -5598,6 +5595,7 @@ address=/letsupload.to/#
 address=/levidia.to/#
 address=/up.li.ru/#
 address=/libble.com/#
+address=/yolo.liberbear.com/#
 address=/liberty-land.net/#
 address=/libertyland.al/#
 address=/libertyland.one/#
@@ -7626,6 +7624,7 @@ address=/repackov.net/#
 address=/reprobate.se/#
 address=/request.rip/#
 address=/requestcracks.com/#
+address=/bt.rer.lol/#
 address=/residentz.cx/#
 address=/torrent.resonatingmedia.com/#
 address=/respawn.ca/#

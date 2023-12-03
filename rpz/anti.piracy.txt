@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701558900 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701644880 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 02 Dec 2023 23:15 UTC
-; Version: 2023.1202.2315.51
+; Last modified: 03 Dec 2023 23:08 UTC
+; Version: 2023.1203.2308.59
 ; Syntax: RPZ
-; Number of entries: 21246
+; Number of entries: 21244
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -5328,6 +5328,8 @@ letsupload.com CNAME .
 *.letsupload.com CNAME .
 libble.com CNAME .
 *.libble.com CNAME .
+yolo.liberbear.com CNAME .
+*.yolo.liberbear.com CNAME .
 libertyvf.com CNAME .
 *.libertyvf.com CNAME .
 licensesnkey.com CNAME .
@@ -9116,8 +9118,6 @@ cineblog01.eu CNAME .
 *.cineblog01.eu CNAME .
 comixology.eu CNAME .
 *.comixology.eu CNAME .
-deathlord.eu CNAME .
-*.deathlord.eu CNAME .
 dl-more.eu CNAME .
 *.dl-more.eu CNAME .
 dvdseed.eu CNAME .
@@ -9744,8 +9744,6 @@ torrent4.games CNAME .
 *.torrent4.games CNAME .
 torrentred.games CNAME .
 *.torrentred.games CNAME .
-devops.gay CNAME .
-*.devops.gay CNAME .
 streamingcommunity.gay CNAME .
 *.streamingcommunity.gay CNAME .
 ezis-amarftp.rf.gd CNAME .
@@ -11588,6 +11586,8 @@ nyafilmer.lol CNAME .
 *.nyafilmer.lol CNAME .
 raid.lol CNAME .
 *.raid.lol CNAME .
+bt.rer.lol CNAME .
+*.bt.rer.lol CNAME .
 serien.lol CNAME .
 *.serien.lol CNAME .
 skytorrents.lol CNAME .
@@ -15282,8 +15282,6 @@ digitalstreet.org CNAME .
 *.digitalstreet.org CNAME .
 dimeadozen.org CNAME .
 *.dimeadozen.org CNAME .
-directdl.org CNAME .
-*.directdl.org CNAME .
 dirtywarez.org CNAME .
 *.dirtywarez.org CNAME .
 dl4all.org CNAME .
@@ -19986,8 +19984,6 @@ piratebaynew.co.uk CNAME .
 *.piratebaynew.co.uk CNAME .
 piratebayportal.co.uk CNAME .
 *.piratebayportal.co.uk CNAME .
-psychocydd.co.uk CNAME .
-*.psychocydd.co.uk CNAME .
 send-file.co.uk CNAME .
 *.send-file.co.uk CNAME .
 www.smithstorrents.co.uk CNAME .
@@ -21000,6 +20996,8 @@ fullmoviz.xyz CNAME .
 *.fullmoviz.xyz CNAME .
 fux0r.xyz CNAME .
 *.fux0r.xyz CNAME .
+tracker.gcrreen.xyz CNAME .
+*.tracker.gcrreen.xyz CNAME .
 gdrivedl.xyz CNAME .
 *.gdrivedl.xyz CNAME .
 gmovies.xyz CNAME .
