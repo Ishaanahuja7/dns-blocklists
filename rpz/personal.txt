@@ -19340,8 +19340,6 @@ xlog-va-useast2a.byteoversea.com CNAME .
 *.xlog-va-useast2a.byteoversea.com CNAME .
 bytesabbreviation.com CNAME .
 *.bytesabbreviation.com CNAME .
-lf-cdn-tos.bytescm.com CNAME .
-*.lf-cdn-tos.bytescm.com CNAME .
 bytesdictatescoop.com CNAME .
 *.bytesdictatescoop.com CNAME .
 bytesreunitedcedar.com CNAME .

@@ -11243,7 +11243,6 @@ address=/xlog-o.byteoversea.com/#
 address=/xlog-va.byteoversea.com/#
 address=/xlog-va-useast2a.byteoversea.com/#
 address=/bytesabbreviation.com/#
-address=/lf-cdn-tos.bytescm.com/#
 address=/bytesdictatescoop.com/#
 address=/bytesreunitedcedar.com/#
 address=/bytogeticr.com/#
