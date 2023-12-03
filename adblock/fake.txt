@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 02 Dec 2023 23:39 UTC
-! Version: 2023.1202.2339.01
+! Last modified: 03 Dec 2023 23:30 UTC
+! Version: 2023.1203.2330.22
 ! Syntax: AdBlock
-! Number of entries: 13812
+! Number of entries: 13781
 !
 ||01discount.com^
 ||11trikots.com^
@@ -2141,7 +2141,6 @@
 ||bidabc.co.uk^
 ||carhirenice.co.uk^
 ||www.davidcoburnmep.co.uk^
-||gaborsouthafrica.co.za^
 ||gdprice.co.uk^
 ||good-batteries.co.uk^
 ||gym-shark.co.za^
@@ -2154,7 +2153,6 @@
 ||www.urhair.co.uk^
 ||coachosterreich.com^
 ||coarsesale.com^
-||cochlear-baha.at^
 ||coco-kick.cc^
 ||codivatorv.com^
 ||codysocks.shop^
@@ -2180,7 +2178,6 @@
 ||collectionhalloween.com^
 ||collectionlamp.com^
 ||collectorsboutique.online^
-||colli-cards.de^
 ||collstein.com^
 ||colorfulbaubles.com^
 ||colorfulfootwear.com^
@@ -2194,7 +2191,6 @@
 ||columbiasuomioutlet.com^
 ||columbiasuomis.com^
 ||brookssverige.com.se^
-||gabor.com.se^
 ||green-shop.com.ua^
 ||guess-sverige.com.se^
 ||guterkauf.com.de^
@@ -2204,10 +2200,8 @@
 ||idealo.com.de^
 ||nutripur.com.de^
 ||ozkart.com.au^
-||pumasneakers.com.se^
 ||smallrig.com.de^
 ||super-consolat.com.de^
-||comba.at^
 ||combojoy.com^
 ||comerciouruguay.com^
 ||comfie.de^
@@ -2280,7 +2274,6 @@
 ||conversexsuomi.com^
 ||convertivity.de^
 ||cooclothes.com^
-||coogle.at^
 ||cookclearance.com^
 ||cookcommodity.com^
 ||cookstreasure.com^
@@ -2392,11 +2385,9 @@
 ||crystal-de.com^
 ||cs-pharmacy.net^
 ||cs-werbeagentur.com^
-||csglog.com^
 ||csm-maker.com^
 ||ctbike.pl^
 ||cube-bike-de.com^
-||cube-de.com^
 ||cubebikede.com^
 ||cuddlo.de^
 ||cuffup-shop.com^
@@ -2421,7 +2412,6 @@
 ||cutshopcentral.com^
 ||cutterfarm.de^
 ||cvmaker.de^
-||cvv-elektronik.com^
 ||cwwk.net^
 ||cyber-haus.de^
 ||cycle100percent.com^
@@ -2510,7 +2500,6 @@
 ||dcskaterschuhe.de^
 ||dcsnowboard.com^
 ||dcsresearch.com^
-||ddypjs.com^
 ||euronics-ps5.de.de^
 ||kumarkt.de.com^
 ||roborockshop.de.com^
@@ -2617,7 +2606,6 @@
 ||demadeal.com^
 ||shop2902.demanovavillage.com^
 ||demediz.com^
-||demonia--suomi.com^
 ||demonia-deutschland.de^
 ||demonia-finland.com^
 ||demoniafinland.com^
@@ -2654,7 +2642,6 @@
 ||derfamilientisch.de^
 ||derkatzenshop.de^
 ||dermahershop.com^
-||derrickbrennholz.com^
 ||derumzugshelfer.at^
 ||desamishop.com^
 ||descontom.com^
@@ -2687,7 +2674,6 @@
 ||detty.co^
 ||deuducht.de^
 ||deuhr.de^
-||deutch-holz.com^
 ||deutchkrediteltd.com^
 ||deutchlandholz.com^
 ||deutsch-markt.com^
@@ -2714,7 +2700,6 @@
 ||dezubehor.com^
 ||dfifomy.com^
 ||dfr-hessen.de^
-||dgerats.com^
 ||dh-immobilien.at^
 ||dhbhandpick.com^
 ||dhbsport.de^
@@ -2722,7 +2707,6 @@
 ||dhe-logistics.com^
 ||dhk-transport.com^
 ||diabohr-tech.de^
-||diadoraosterreich.com^
 ||diaetoxil.de^
 ||diamant-eventcenter.de^
 ||diamondpen.store^
@@ -2932,7 +2916,6 @@
 ||dreurvip.com^
 ||drflix.de^
 ||drgillmaier.de^
-||drgmilitaria.com^
 ||driftgarment.com^
 ||driftgreat.club^
 ||dringender-kredit.com^
@@ -2940,7 +2923,6 @@
 ||drmartens-factory.com^
 ||drmartens-outlets.com^
 ||drmartensberlin.de^
-||drmartensboots.at^
 ||drmartensjadonsale.de^
 ||drmartenssale.vip^
 ||drmartensschuhe.at^
@@ -2998,7 +2980,6 @@
 ||dvsongrlf.top^
 ||dwaynejohnson.de^
 ||dws-elektronik.de^
-||dynafitrabatt.de^
 ||dynamiquesbois.com^
 ||dynamos.at^
 ||dynasafe.at^
@@ -3009,7 +2990,6 @@
 ||e-bikehandel.de^
 ||e-bikesmagasin.com^
 ||e-halle.ch^
-||e-herdde.de^
 ||e-kaufmarkt.at^
 ||e-kaufmarkt.com^
 ||e-lektorat.at^
@@ -3086,7 +3066,6 @@
 ||ecoheizung.com^
 ||ecolestaubin.fr^
 ||ecoooc.com^
-||ecopelletgmbh.com^
 ||ecosilkroad.com^
 ||ecoversilia.it^
 ||ed-apotheker.com^
@@ -3148,7 +3127,6 @@
 ||ehlers-reifen.com^
 ||ehlers-reifenversand.com^
 ||ehome-shop.com^
-||eichholtzdeals.com^
 ||eichhorn-autoreifen.com^
 ||eichler-reifenhandel.shop^
 ||eichler-reifenversand.com^
@@ -3167,13 +3145,10 @@
 ||eira-line.com^
 ||eiroshop.lv^
 ||eis-henning.de^
-||eisenhart.at^
 ||eisenwarensale-shop.com^
 ||eispiny.com^
 ||eisschild.com^
-||ekc-credit.com^
 ||ekehau.com^
-||ekiz-volders.at^
 ||eko-gartenbauhandel.de^
 ||eko-group.de^
 ||eko-immo.com^
@@ -3289,7 +3264,6 @@
 ||emerginghomeshop.com^
 ||emergingjewelry.com^
 ||emergingsurf.com^
-||emexep.com^
 ||emhart-holze.com^
 ||emiliameyer.de^
 ||emiliegan.com^
@@ -3356,7 +3330,6 @@
 ||enthusiastichaic.com^
 ||entruempelungsexperten.at^
 ||entrustjewelry.com^
-||entscheider-messe.de^
 ||enuvio.de^
 ||eoahdbv.cn^
 ||eolia-stores.shop^
@@ -3385,7 +3358,6 @@
 ||erfolg-im-2023.com^
 ||ergo-ruhrgebiet.de^
 ||erikanicklheim.de^
-||erlebnisart.at^
 ||ernst-reifenhandel.com^
 ||eroticneta.com^
 ||ersatzteilegeschaft.com^
@@ -5607,6 +5579,7 @@
 ||huesslers.de^
 ||hugenberg-gartencenter.com^
 ||hugfirst.com^
+||hughfurniture.xyz^
 ||hugoboss-turkey.com^
 ||hugobossnz.com^
 ||hugobossoutlet.at^
@@ -7734,7 +7707,6 @@
 ||muckschweiz.com^
 ||mueller-investment.com^
 ||muellerwelpen.com^
-||muenchen-sperrmuellservice.com^
 ||muenchenzelte.de^
 ||muffinsh.com^
 ||muhs-spielwaren.com^
@@ -7895,7 +7867,6 @@
 ||necmarkt.com^
 ||nederlandaanbieding.com^
 ||nederlandse-apotheek.com^
-||neepage.com^
 ||nellyneu.shop^
 ||nelpaid.com^
 ||nemino.net^
@@ -8218,7 +8189,6 @@
 ||nursingaccessoriesstore.com^
 ||nutripurde.com^
 ||nuttytoolpart.com^
-||nuubu.com^
 ||nuxxu.de^
 ||nv-marketing.de^
 ||nvgtndeutschland.de^
@@ -12230,7 +12200,6 @@
 ||togclothes.com^
 ||togetherrxacces.com^
 ||tokenskeep.com^
-||toko999.net^
 ||tolle-technik.com^
 ||tolleelektronik.de^
 ||tollerladen.com^
