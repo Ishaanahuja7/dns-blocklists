@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 02 Dec 2023 23:13 UTC
-# Version: 2023.1202.2313.27
+# Last modified: 03 Dec 2023 23:06 UTC
+# Version: 2023.1203.2306.38
 # Syntax: DNSMasq
-# Number of entries: 2005
+# Number of entries: 2000
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -241,7 +241,6 @@ address=/annakesek.pl/#
 address=/anschauen.in/#
 address=/anschiessen.de/#
 address=/answerblogs.com/#
-address=/antonellagiallonardo.it/#
 address=/ar.gp/#
 address=/arcadepages.com/#
 address=/arcor-ip.net/#
@@ -586,7 +585,6 @@ address=/cavandoragh.org/#
 address=/cba.pl/#
 address=/center.tl/#
 address=/centerblog.net/#
-address=/cesapsrls.it/#
 address=/cfw.me/#
 address=/ch.gp/#
 address=/ch.kg/#
@@ -678,7 +676,6 @@ address=/com0.de/#
 address=/com24.at/#
 address=/comeze.com/#
 address=/comhem.se/#
-address=/comitatiquartierebergamo.it/#
 address=/comli.com/#
 address=/comlu.com/#
 address=/community.lc/#
@@ -687,12 +684,10 @@ address=/comoj.com/#
 address=/comuf.com/#
 address=/comule.com/#
 address=/comunidades.net/#
-address=/comunitamontanepugliesi.it/#
 address=/comuv.com/#
 address=/comxa.com/#
 address=/comyr.com/#
 address=/comze.com/#
-address=/consorziocassiavass.it/#
 address=/cookpad-blog.jp/#
 address=/cool.hn/#
 address=/cool.lc/#

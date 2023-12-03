@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701558780 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701644760 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 02 Dec 2023 23:13 UTC
-; Version: 2023.1202.2313.27
+; Last modified: 03 Dec 2023 23:06 UTC
+; Version: 2023.1203.2306.38
 ; Syntax: RPZ
-; Number of entries: 4010
+; Number of entries: 4000
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2750,8 +2750,6 @@ blogspot.is CNAME .
 *.blogspot.is CNAME .
 135.it CNAME .
 *.135.it CNAME .
-antonellagiallonardo.it CNAME .
-*.antonellagiallonardo.it CNAME .
 artementenotizie.it CNAME .
 *.artementenotizie.it CNAME .
 beepworld.it CNAME .
@@ -2762,14 +2760,6 @@ blogspot.it CNAME .
 *.blogspot.it CNAME .
 boscorosso.it CNAME .
 *.boscorosso.it CNAME .
-cesapsrls.it CNAME .
-*.cesapsrls.it CNAME .
-comitatiquartierebergamo.it CNAME .
-*.comitatiquartierebergamo.it CNAME .
-comunitamontanepugliesi.it CNAME .
-*.comunitamontanepugliesi.it CNAME .
-consorziocassiavass.it CNAME .
-*.consorziocassiavass.it CNAME .
 excite.it CNAME .
 *.excite.it CNAME .
 forumfree.it CNAME .
