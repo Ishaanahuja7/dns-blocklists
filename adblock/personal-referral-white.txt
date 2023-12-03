@@ -298,7 +298,7 @@
 @@||count.shopping.t-online.de^
 @@||redirect*.tagcommander.com^
 @@||goto.target.com^
-@@||tagm.tchibo.de^
+@@||*tagm.tchibo.de^
 @@||tracking.tldrnewsletter.com^
 @@||c.trackmytarget.com^
 @@||cdn-magiclinks.trackonomics.net^
