@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 03 Dec 2023 23:06 UTC
-# Version: 2023.1203.2306.38
+# Last modified: 04 Dec 2023 23:05 UTC
+# Version: 2023.1204.2305.10
 # Syntax: DNSMasq
-# Number of entries: 2000
+# Number of entries: 1995
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -986,7 +986,6 @@ address=/gigarocket.net/#
 address=/gilde.in/#
 address=/gildenseite.de/#
 address=/girlsense.com/#
-address=/glamoursaronno.it/#
 address=/glifeblog.com/#
 address=/goabroadblog.com/#
 address=/godaddysites.com/#
@@ -1003,7 +1002,6 @@ address=/graffiti.net/#
 address=/gratis.lc/#
 address=/great-site.net/#
 address=/greatnow.com/#
-address=/gruppojem.it/#
 address=/gruzabawki.pl/#
 address=/gsi-marex.pl/#
 address=/gta.team/#
@@ -1088,7 +1086,6 @@ address=/igg.biz/#
 address=/ij2.de/#
 address=/il.gp/#
 address=/ilovetoblog.com/#
-address=/ilpettolino.it/#
 address=/blogs.ilrt.org/#
 address=/im-internet.eu/#
 address=/image-perth.org/#
@@ -1195,12 +1192,10 @@ address=/kz.gp/#
 address=/l.gp/#
 address=/l4n.org/#
 address=/laden.biz/#
-address=/lalocandadelteatro.it/#
 address=/land.to/#
 address=/laowaiblog.com/#
 address=/lasertechnics.pl/#
 address=/lassaggio.cz/#
-address=/lastingmerino.it/#
 address=/lasuite-depotvente.fr/#
 address=/launchaco.com/#
 address=/laviola-leeste.de/#

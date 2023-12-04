@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701644760 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701731100 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 03 Dec 2023 23:06 UTC
-; Version: 2023.1203.2306.38
+; Last modified: 04 Dec 2023 23:05 UTC
+; Version: 2023.1204.2305.10
 ; Syntax: RPZ
-; Number of entries: 4000
+; Number of entries: 3990
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2764,18 +2764,8 @@ excite.it CNAME .
 *.excite.it CNAME .
 forumfree.it CNAME .
 *.forumfree.it CNAME .
-glamoursaronno.it CNAME .
-*.glamoursaronno.it CNAME .
-gruppojem.it CNAME .
-*.gruppojem.it CNAME .
-ilpettolino.it CNAME .
-*.ilpettolino.it CNAME .
 kataweb.it CNAME .
 *.kataweb.it CNAME .
-lalocandadelteatro.it CNAME .
-*.lalocandadelteatro.it CNAME .
-lastingmerino.it CNAME .
-*.lastingmerino.it CNAME .
 mrmaccaroni.it CNAME .
 *.mrmaccaroni.it CNAME .
 myblog.it CNAME .
