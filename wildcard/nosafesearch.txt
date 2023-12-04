@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 29 Nov 2023 10:59 UTC
-# Version: 2023.1129.1059.51
+# Last modified: 04 Dec 2023 22:57 UTC
+# Version: 2023.1204.2257.34
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 256
+# Number of entries: 254
 #
 *.search.0xcb.dev
 *.search.0xgingi.com
@@ -108,8 +108,6 @@
 *.searx.kutay.dev
 *.search.laksith.dev
 *.searx.lavatech.top
-*.haku.lelux.fi
-*.searx.lelux.fi
 *.search.leptons.xyz
 *.search.lgbtq.cool
 *.librex.me
