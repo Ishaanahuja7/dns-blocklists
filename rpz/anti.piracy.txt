@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701644880 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701731220 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 03 Dec 2023 23:08 UTC
-; Version: 2023.1203.2308.59
+; Last modified: 04 Dec 2023 23:07 UTC
+; Version: 2023.1204.2307.26
 ; Syntax: RPZ
-; Number of entries: 21244
+; Number of entries: 21216
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -282,8 +282,6 @@ ilgeniodellostreaming.art CNAME .
 *.ilgeniodellostreaming.art CNAME .
 indiaboat.art CNAME .
 *.indiaboat.art CNAME .
-indoxx1.art CNAME .
-*.indoxx1.art CNAME .
 lookmovie.art CNAME .
 *.lookmovie.art CNAME .
 okedrama.art CNAME .
@@ -1580,8 +1578,6 @@ eurostreaming.center CNAME .
 *.eurostreaming.center CNAME .
 filmpertutti.center CNAME .
 *.filmpertutti.center CNAME .
-guardaserie.center CNAME .
-*.guardaserie.center CNAME .
 indoxxi.center CNAME .
 *.indoxxi.center CNAME .
 piratebay.center CNAME .
@@ -4734,8 +4730,6 @@ tracker.grepler.com CNAME .
 *.tracker.grepler.com CNAME .
 grimhosting.com CNAME .
 *.grimhosting.com CNAME .
-grizzlytorrents.com CNAME .
-*.grizzlytorrents.com CNAME .
 grosfichiers.com CNAME .
 *.grosfichiers.com CNAME .
 storage.groupees.com CNAME .
@@ -7512,6 +7506,8 @@ torrenticity.com CNAME .
 *.torrenticity.com CNAME .
 torrenting.com CNAME .
 *.torrenting.com CNAME .
+tracker1.torrentino.com CNAME .
+*.tracker1.torrentino.com CNAME .
 tracker2.torrentino.com CNAME .
 *.tracker2.torrentino.com CNAME .
 tracker3.torrentino.com CNAME .
@@ -9168,8 +9164,6 @@ italia-film.eu CNAME .
 *.italia-film.eu CNAME .
 jpopsuki.eu CNAME .
 *.jpopsuki.eu CNAME .
-kickasstorrent.eu CNAME .
-*.kickasstorrent.eu CNAME .
 kleverig.eu CNAME .
 *.kleverig.eu CNAME .
 knapsu.eu CNAME .
@@ -9344,10 +9338,6 @@ usenet.farm CNAME .
 *.usenet.farm CNAME .
 gomovies123.fi CNAME .
 *.gomovies123.fi CNAME .
-tracker.lelux.fi CNAME .
-*.tracker.lelux.fi CNAME .
-tracker6.lelux.fi CNAME .
-*.tracker6.lelux.fi CNAME .
 pirateproxy.fi CNAME .
 *.pirateproxy.fi CNAME .
 proxyproxy.fi CNAME .
@@ -9920,8 +9910,6 @@ altadefinizione01.hair CNAME .
 *.altadefinizione01.hair CNAME .
 cineblog01.hair CNAME .
 *.cineblog01.hair CNAME .
-filmpertutti.hair CNAME .
-*.filmpertutti.hair CNAME .
 filmstreaming.hair CNAME .
 *.filmstreaming.hair CNAME .
 ilgeniodellostreaming.hair CNAME .
@@ -10014,8 +10002,6 @@ capital.cyberserver.hu CNAME .
 *.capital.cyberserver.hu CNAME .
 diablotorrent.hu CNAME .
 *.diablotorrent.hu CNAME .
-ipv6.govt.hu CNAME .
-*.ipv6.govt.hu CNAME .
 impulsive.hu CNAME .
 *.impulsive.hu CNAME .
 kepfeltoltes.hu CNAME .
@@ -10190,8 +10176,6 @@ data-load.in CNAME .
 *.data-load.in CNAME .
 elitetorrent.in CNAME .
 *.elitetorrent.in CNAME .
-exostress.in CNAME .
-*.exostress.in CNAME .
 extreme-down.in CNAME .
 *.extreme-down.in CNAME .
 fileparadox.in CNAME .
@@ -13106,8 +13090,6 @@ eztvstatus.net CNAME .
 *.eztvstatus.net CNAME .
 ezyfile.net CNAME .
 *.ezyfile.net CNAME .
-tracker.farted.net CNAME .
-*.tracker.farted.net CNAME .
 fast-load.net CNAME .
 *.fast-load.net CNAME .
 fastani.net CNAME .
@@ -18378,10 +18360,6 @@ cineblog01.skin CNAME .
 *.cineblog01.skin CNAME .
 eurostreaming.skin CNAME .
 *.eurostreaming.skin CNAME .
-filmpertutti.skin CNAME .
-*.filmpertutti.skin CNAME .
-filmstreaming.skin CNAME .
-*.filmstreaming.skin CNAME .
 guardaserie.skin CNAME .
 *.guardaserie.skin CNAME .
 ilgeniodellostreaming.skin CNAME .
@@ -18678,8 +18656,6 @@ kinox.sx CNAME .
 *.kinox.sx CNAME .
 liveru.sx CNAME .
 *.liveru.sx CNAME .
-livetv.sx CNAME .
-*.livetv.sx CNAME .
 movie-blog.sx CNAME .
 *.movie-blog.sx CNAME .
 serien.sx CNAME .
@@ -18824,8 +18800,6 @@ thepiratebay.tips CNAME .
 *.thepiratebay.tips CNAME .
 altadefinizione.tires CNAME .
 *.altadefinizione.tires CNAME .
-eurostreaming.tires CNAME .
-*.eurostreaming.tires CNAME .
 guardaserie.tires CNAME .
 *.guardaserie.tires CNAME .
 cb01.tk CNAME .
@@ -20400,8 +20374,6 @@ eurostreaming.voyage CNAME .
 *.eurostreaming.voyage CNAME .
 ilgeniodellostreaming.voyage CNAME .
 *.ilgeniodellostreaming.voyage CNAME .
-tracker.k.vu CNAME .
-*.tracker.k.vu CNAME .
 altadefinizione.wales CNAME .
 *.altadefinizione.wales CNAME .
 cb01.wales CNAME .
