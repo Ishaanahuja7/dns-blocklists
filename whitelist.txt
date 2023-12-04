@@ -320,7 +320,6 @@ go.trouter.skype.com
 *.insideruser.microsoft.com
 *.insideruser.trafficmanager.net
 *.insider.microsoft365.com
-js.monitor.azure.com
 login.microsoftonline.com
 nexus.live.com
 onecollector.cloudapp.aria.akadns.net
@@ -5304,4 +5303,7 @@ magiskcn.com
 
 # https://github.com/hagezi/dns-blocklists/issues/1889
 iptools.su
+
+# Linux Liquorix Kernel Forums
+techpatterns.com
 

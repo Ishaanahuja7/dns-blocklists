@@ -1711,7 +1711,6 @@
 /(\.|^)vk\.sv$/
 /(\.|^)vn\.rog\.gg$/
 /(\.|^)vntyfr\.com$/
-/(\.|^)vodafone\.uk$/
 /(\.|^)vogue\.cm$/
 /(\.|^)voicetu\.be$/
 /(\.|^)vo\.la$/
@@ -1867,7 +1866,6 @@
 /(\.|^)yun\.ir$/
 /(\.|^)yupptv\.la$/
 /(\.|^)yyv\.co$/
-/(\.|^)z23\.ru$/
 /(\.|^)z9\.fr$/
 /(\.|^)zapit\.nu$/
 /(\.|^)zat\.ink$/
