@@ -5307,3 +5307,6 @@ iptools.su
 # Linux Liquorix Kernel Forums
 techpatterns.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1897
+backgrounds.wetransfer.net
+
