@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Dec 2023 23:07 UTC
-# Version: 2023.1204.2307.26
+# Last modified: 05 Dec 2023 23:19 UTC
+# Version: 2023.1205.2319.09
 # Syntax: DNSMasq
-# Number of entries: 10608
+# Number of entries: 10601
 #
 address=/blink-stresser.000webhostapp.com/#
 address=/ddos-ovh-v6.000webhostapp.com/#
@@ -6085,7 +6085,6 @@ address=/moviefiles.org/#
 address=/moviefone.com/#
 address=/movieforfree.co/#
 address=/moviefreak.xyz/#
-address=/moviegaga.to/#
 address=/movieglide.com/#
 address=/moviego.site/#
 address=/moviehaat.net/#
@@ -6968,7 +6967,6 @@ address=/photoserver.ws/#
 address=/phyrefile.com/#
 address=/pianosheets.org/#
 address=/pic4you.ru/#
-address=/picapic.net/#
 address=/picfoco.com/#
 address=/picfor.me/#
 address=/picfront.com/#
@@ -7135,7 +7133,6 @@ address=/ip-booter-net.play3nvvip.com/#
 address=/playertv.net/#
 address=/playhydrax.com/#
 address=/playit.pk/#
-address=/tracker.playmanija.net/#
 address=/playseries.club/#
 address=/playseriesonline.net/#
 address=/playtvgo.com/#
@@ -7184,7 +7181,6 @@ address=/share.popgo.org/#
 address=/popsnap.net/#
 address=/pornbay.org/#
 address=/pornbits.net/#
-address=/pornevo.com/#
 address=/pornleech.io/#
 address=/pornofive.com/#
 address=/pornograd.net/#
@@ -7241,7 +7237,6 @@ address=/primewire.mx/#
 address=/primewire.pw/#
 address=/primewire.tf/#
 address=/primewirestatus.org/#
-address=/princessmovies.to/#
 address=/privatebits.org/#
 address=/privatehd.to/#
 address=/saleno.privateme.info/#
@@ -7298,7 +7293,6 @@ address=/proxygalaxy.pw/#
 address=/proxyindex.net/#
 address=/proxypirate.ml/#
 address=/proxypirate.pw/#
-address=/proxypirate.tk/#
 address=/proxyportal.pw/#
 address=/proxyproxy.fi/#
 address=/proxyrarbg.org/#
@@ -7554,7 +7548,6 @@ address=/raulken.it/#
 address=/rautaportti.net/#
 address=/rawkbawx.rocks/#
 address=/rawlayer.com/#
-address=/rawshanarainternet.com/#
 address=/rdconlinebd.net/#
 address=/rds-zone.ro/#
 address=/readcomicsonline.ru/#

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701731220 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701818340 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Dec 2023 23:07 UTC
-; Version: 2023.1204.2307.26
+; Last modified: 05 Dec 2023 23:19 UTC
+; Version: 2023.1205.2319.09
 ; Syntax: RPZ
-; Number of entries: 21216
+; Number of entries: 21202
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -6336,8 +6336,6 @@ popedope.com CNAME .
 *.popedope.com CNAME .
 popflixhd.com CNAME .
 *.popflixhd.com CNAME .
-pornevo.com CNAME .
-*.pornevo.com CNAME .
 pornofive.com CNAME .
 *.pornofive.com CNAME .
 pornoshara.com CNAME .
@@ -6552,8 +6550,6 @@ rarlinks.com CNAME .
 *.rarlinks.com CNAME .
 rawlayer.com CNAME .
 *.rawlayer.com CNAME .
-rawshanarainternet.com CNAME .
-*.rawshanarainternet.com CNAME .
 real-debrid.com CNAME .
 *.real-debrid.com CNAME .
 realstresser.com CNAME .
@@ -13726,8 +13722,6 @@ peliculaswarez.net CNAME .
 *.peliculaswarez.net CNAME .
 pelisplushd.net CNAME .
 *.pelisplushd.net CNAME .
-picapic.net CNAME .
-*.picapic.net CNAME .
 picfu.net CNAME .
 *.picfu.net CNAME .
 picturesetc.net CNAME .
@@ -13774,8 +13768,6 @@ bt.planetq.net CNAME .
 *.bt.planetq.net CNAME .
 playertv.net CNAME .
 *.playertv.net CNAME .
-tracker.playmanija.net CNAME .
-*.tracker.playmanija.net CNAME .
 playseriesonline.net CNAME .
 *.playseriesonline.net CNAME .
 plexbd.net CNAME .
@@ -18820,8 +18812,6 @@ tracker.nyaa.tk CNAME .
 *.tracker.nyaa.tk CNAME .
 piratesbay.tk CNAME .
 *.piratesbay.tk CNAME .
-proxypirate.tk CNAME .
-*.proxypirate.tk CNAME .
 tpb.sadzawka.tk CNAME .
 *.tpb.sadzawka.tk CNAME .
 trackerxyz.tk CNAME .
@@ -19088,8 +19078,6 @@ movie2k.to CNAME .
 *.movie2k.to CNAME .
 movie4k.to CNAME .
 *.movie4k.to CNAME .
-moviegaga.to CNAME .
-*.moviegaga.to CNAME .
 movies132.to CNAME .
 *.movies132.to CNAME .
 movies7.to CNAME .
@@ -19154,8 +19142,6 @@ piratebay-proxy.to CNAME .
 *.piratebay-proxy.to CNAME .
 pornostube.to CNAME .
 *.pornostube.to CNAME .
-princessmovies.to CNAME .
-*.princessmovies.to CNAME .
 privatehd.to CNAME .
 *.privatehd.to CNAME .
 proxyrarbg.to CNAME .
