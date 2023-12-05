@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Dec 2023 23:01 UTC
-# Version: 2023.1204.2301.31
+# Last modified: 05 Dec 2023 23:13 UTC
+# Version: 2023.1205.2313.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 982
+# Number of entries: 981
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 cdn.0ms.dev
@@ -238,7 +238,6 @@
 0.0.0.0 dns.ceai.com.tw
 0.0.0.0 adguard.gbrossi.com.br
 0.0.0.0 dns.joaofidelix.com.br
-0.0.0.0 dns.opnsource.com.au
 0.0.0.0 dns.weixin.qq.com.cn
 0.0.0.0 dns.comeonjames.club
 0.0.0.0 commons.host

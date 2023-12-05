@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Dec 2023 23:01 UTC
-# Version: 2023.1204.2301.31
+# Last modified: 05 Dec 2023 23:13 UTC
+# Version: 2023.1205.2313.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 841
+# Number of entries: 840
 #
 *.ns.00dani.me
 *.cdn.0ms.dev
@@ -184,7 +184,6 @@
 *.dns.ceai.com.tw
 *.adguard.gbrossi.com.br
 *.dns.joaofidelix.com.br
-*.dns.opnsource.com.au
 *.dns.weixin.qq.com.cn
 *.dns.comeonjames.club
 *.commons.host
