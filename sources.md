@@ -316,6 +316,7 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Gambli
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Malware
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Scam
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/master/Lists/Tunnels
+https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
 https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt
 https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_small.txt
