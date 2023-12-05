@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Dec 2023 23:28 UTC
-# Version: 2023.1204.2328.47
+# Last modified: 05 Dec 2023 23:40 UTC
+# Version: 2023.1205.2340.38
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 13713
+# Number of entries: 13645
 #
 *.01discount.com
 *.11trikots.com
@@ -4561,6 +4561,7 @@
 *.giunews.com
 *.gizupp.com
 *.gkl-teampublic.de
+*.glacierbayshop.com
 *.glamgarbshop.com
 *.glamgoamazing.com
 *.glamorousoutfit.com
@@ -6742,7 +6743,6 @@
 *.localminidachshundpuppies.com
 *.lockhurst-winkel.com
 *.lockpickingstore.de
-*.locoford.com
 *.locomotiveoneal.com
 *.locomotiveover.com
 *.lodischuhedeutschland.com
@@ -6760,7 +6760,6 @@
 *.logistic-home-office.com
 *.logistic-workman.com
 *.logistical-assist.com
-*.logistical-worker.com
 *.logistik-knw.com
 *.logistik-sander.de
 *.logistikshippers.com
@@ -6866,7 +6865,6 @@
 *.lunabfashion.com
 *.smartphonepeak.lunakebe.com
 *.lunanaa.top
-*.lungauphysio.at
 *.lunion.ch
 *.lupinebike.com
 *.lusto.de
@@ -7050,7 +7048,6 @@
 *.martenssosterreich.com
 *.martialarts-plus.com
 *.martin-reifenversand.com
-*.martinasnatur.at
 *.martindorking.com
 *.martinvince.com
 *.marton-media.de
@@ -7089,7 +7086,6 @@
 *.maxmedi.de
 *.maxnovelty.com
 *.maxpotenz.de
-*.maxtravel.at
 *.maxwellwilliamshop.com
 *.maxxflix.de
 *.maxxi.tech
@@ -7101,18 +7097,14 @@
 *.mba-ue.de
 *.mbali-yangu.de
 *.mbel-setsprize.com
-*.mbike-jena.de
 *.de.mbm-cloudmining.eu
 *.mbtosterreich.com
 *.mbtstoredeutschland.com
-*.mc-bau.at
 *.mccoyn.com
-*.mclast.at
 *.mconsap.shop
 *.mcpills.net
 *.mcreinhold.com
 *.mcshipments.com
-*.mcsuch.at
 *.mdecooo.com
 *.mdseller.com
 *.mdusershop.com
@@ -7189,7 +7181,6 @@
 *.megatoolsource.com
 *.megawire.de
 *.mehsam-transport.com
-*.meier-darlehen.com
 *.meier-reifenhandel.shop
 *.meiers.eu
 *.mein-bauhof.de
@@ -7202,14 +7193,12 @@
 *.mein-urwaldholz.de
 *.mein-wegbegleiter.de
 *.meinardy.de
-*.meinbrenholz.com
 *.meindlsales.com
 *.meindlschuhe.at
 *.meindlschuhefabrikverkauf.de
 *.meine-heizstation.com
 *.meine-neue-brille.de
 *.meine-strandfigur.com
-*.meinehausheizung.com
 *.meineprojektoren.com
 *.meinewelt247.de
 *.meinflix.de
@@ -7342,12 +7331,10 @@
 *.milchpumpede.de
 *.mildenstein.net
 *.milentech.com
-*.mililandz.com
 *.milleniumcompass.com
 *.milleniumtradenetwork.com
 *.millionaersuchtfrau.de
 *.millyhomepool.com
-*.milono-handel.net
 *.milopax.de
 *.miloujewelrys.com
 *.miltonas.com
@@ -7360,7 +7347,6 @@
 *.miningexchange24.com
 *.miniwelpen.com
 *.minkaaire-fan.com
-*.minnetonkaschuhe.com
 *.minosec.com
 *.minymode.shop
 *.miofactoryoutlets.shop
@@ -7380,7 +7366,6 @@
 *.misterlamp.de
 *.mistertech.shop
 *.miswimbest.com
-*.mit-mut.at
 *.mitte-sued-ka.de
 *.mitzihorton.com
 *.miumiu-austria.at
@@ -7656,7 +7641,6 @@
 *.multioutdoorarea.com
 *.multioutdoorpro.com
 *.multiplesportnew.com
-*.multiplicity.at
 *.multishop-us.com
 *.mundoparabebe.com
 *.mundschutzhalter.net
@@ -7671,7 +7655,6 @@
 *.musichotsales.com
 *.musicmodish.com
 *.musicusstore.com
-*.musikhaus-hendriks.com
 *.musiknachhilfe.at
 *.muskelkatze-berlin.de
 *.mustang-parts-shop.de
@@ -7694,7 +7677,6 @@
 *.portal.mybeautyplans.com
 *.myberlinshop.com
 *.mycaboconcierge.com
-*.mydealz24.net
 *.myfaifo.com
 *.myfaktory.com
 *.mpreis-2023.myfreesites.net
@@ -7978,13 +7960,11 @@
 *.nikeairvapormax.us
 *.nikealesuomi.com
 *.nikebillig.com
-*.nikefreernoutlet.com
 *.nikeinslovenia.com
 *.nikeinsuomi.com
 *.nikeosterreich.at
 *.nikeosterreich.com
 *.nikeosterreichshop.com
-*.nikeoutletstoreonlineshopping.us
 *.nikeoutletsuomi.com
 *.nikesale-us.vip
 *.nikeschuhes.de
@@ -8024,7 +8004,6 @@
 *.nmbsico.top
 *.no-bull-deutschland.de
 *.noblecosplay.com
-*.nobuldeutschland.me
 *.nobull-nederlandnl.com
 *.nobullaustria.at
 *.nobullosterreich.at
@@ -8034,9 +8013,7 @@
 *.nobullsalewien.me
 *.nobullstoredeutschland.com
 *.nobullwinkelnederland.com
-*.nobulosterreich.me
 *.nobulprojectnederland.me
-*.noelkredit.com
 *.nolandsports.shop
 *.nolanverkauf.de
 *.nolte-autoreifen.shop
@@ -8121,6 +8098,7 @@
 *.nursingaccessoriesstore.com
 *.nutripurde.com
 *.nuttytoolpart.com
+*.nuubu.com
 *.nuxxu.de
 *.nv-marketing.de
 *.nvgtndeutschland.de
@@ -8155,7 +8133,6 @@
 *.octapustravel.com
 *.octeconi.com
 *.octeno.de
-*.octobo.at
 *.oculear-official.site
 *.ocycling.com
 *.oden-wald.net
@@ -8172,7 +8149,6 @@
 *.oelseite.com
 *.oelstation24.com
 *.oesterreichischeapotheke.com
-*.oevpnd.at
 *.oexpel.com
 *.off-bivouac.com
 *.off-hunting.com
@@ -8267,7 +8243,6 @@
 *.oinepukin.com
 *.oirudinkep.com
 *.oketofit.com
-*.okfitness.at
 *.okolius.de
 *.okomia.com
 *.olakork.com
@@ -8287,7 +8262,6 @@
 *.olukaisuomi.com
 *.olxbg.com
 *.olxbgg.com
-*.olyaservices.com
 *.olympis.de
 *.omabrennholz.com
 *.omega-handel.de
@@ -8309,7 +8283,6 @@
 *.onclouddeutschland.com
 *.onclouddeutschlande.com
 *.oncloudshoeoutlet.com
-*.oncloudsneaker.shop
 *.oncloudsneakers.com
 *.oncloudsonline.com
 *.oncloudturnschuhe.com
@@ -8341,7 +8314,6 @@
 *.onlineankleboots.com
 *.onlineautocycle.com
 *.onlinebales.com
-*.onlinebesteholzshop.com
 *.onlinebikede.com
 *.onlinechemicalandpills.com
 *.onlinedamen.de
@@ -8353,7 +8325,6 @@
 *.onlineflamencoguitar.com
 *.onlineforyou.net
 *.onlinehealthworldtrust.com
-*.onlineholzshop.com
 *.onlineideastoday.com
 *.onlineinvestmentreviews.com
 *.onlinejogging.com
@@ -8428,7 +8399,6 @@
 *.ontimelive.com
 *.onwrtu.com
 *.onze-korting.com
-*.opabitcoin.com
 *.open-airroom.com
 *.open-kredit.com
 *.openair-off.com
@@ -8520,11 +8490,8 @@
 *.orrebol.com
 *.ortlieboztrail.com
 *.ortliebpack.com
-*.ortovoxdeutschland.com
 *.ortovoxonlineout.com
-*.ortovoxosterreich.com
 *.ortovoxoutdooor.com
-*.ortovoxrabatt.de
 *.ortovoxsport.com
 *.oschuetz.de
 *.osecrobotics.com
@@ -8537,13 +8504,11 @@
 *.ospreyneu.de
 *.ospreysuomi.com
 *.ospreysuomi.net
-*.ostergartenhermesdorf.de
 *.osterreich24rx.com
 *.osterreichapotheke.at
 *.osterreichschuheonlineshop.com
 *.ostrava.nl
 *.otcantabuse.com
-*.otrozio.de
 *.otte-autoreifen.com
 *.otto-angebote.de
 *.otto-deat.de
@@ -8610,7 +8575,6 @@
 *.outletadidas.com
 *.outletadidasfi.com
 *.outletarcteryx.com
-*.outletathletics.com
 *.outletautoparts.com
 *.outletbikeaccessories.com
 *.outletblades.com
@@ -8809,7 +8773,6 @@
 *.pedalesales.com
 *.pedbikecozy.com
 *.peekachill.com
-*.pellet-bio.com
 *.pellet-euro.com
 *.pellets-brennholz.com
 *.pellets-pro.de
@@ -8817,7 +8780,6 @@
 *.pelletsundholz.com
 *.pelletundholz.com
 *.pendantkitsale.com
-*.pension-sommer.at
 *.peptide-kaufen.com
 *.perennialwelfares.com
 *.perfect-home.co
@@ -8901,9 +8863,7 @@
 *.pharmstore.top
 *.pharmtownsolutions.com
 *.phero007.shop
-*.phobility-aktiv.at
 *.phoenix-elektro.com
-*.phoenix-market.com
 *.photonstrom.de
 *.photovoltaik-green.com
 *.photovoltaikprofis.de
@@ -8912,7 +8872,6 @@
 *.physioplus-badfiestel.de
 *.pickleballoffer.com
 *.pickledfoodonline.com
-*.pickupstrategie.de
 *.pictureframe-sale.com
 *.pictureoutdooor.com
 *.picturesquehouse.com
@@ -8920,7 +8879,6 @@
 *.pietsch-autoreifen.shop
 *.pikler.space
 *.pikolinosschuhe.com
-*.pil24.com
 *.pilarflores.es
 *.pilemeds.com
 *.pillen-apo.de
@@ -9007,7 +8965,6 @@
 *.plexiglass.nl
 *.plh-harz.de
 *.plingaya.top
-*.plus-lingerie.com
 *.plus-running.com
 *.plus-tennis.com
 *.plusairsoft.com
@@ -9165,7 +9122,6 @@
 *.primeclubs.store
 *.primehouse.store
 *.primelogisticllc.com
-*.primuselektro.de
 *.primusmiele.com
 *.printedfloormatde.com
 *.prinz-reifenversand.com
@@ -9176,14 +9132,12 @@
 *.privko.live
 *.pro-ben.de
 *.pro-clothing.com
-*.pro-glanz.at
 *.pro-homeappliance.com
 *.pro-openair.com
 *.proacehardware.com
 *.proactiveping.com
 *.proadulttoy.com
 *.probikeclothes.com
-*.processus-online.de
 *.processxpert.de
 *.procyonex.com
 *.prodak.de
@@ -9205,18 +9159,15 @@
 *.profiton.pro
 *.profiyard.de
 *.profstball.com
-*.profund-trade.com
 *.progressivehomeware.com
 *.prohotel.at
 *.proinvestmentmarket.com
 *.projectpeva.org
 *.prokitchen-tools.com
-*.prokow.at
 *.prokredite.com
 *.prolebenklinik-igls.at
 *.proline-tool.com
 *.promediamark.com
-*.promilletester.at
 *.promised.cc
 *.promo-gun.com
 *.promo-houseitem.com
@@ -9232,7 +9183,6 @@
 *.proopenair.com
 *.proopenairgear.com
 *.prooutside.com
-*.property-24.com
 *.propinquity180.shop
 *.prorcland.com
 *.prorecruitxpert-deu.com
@@ -9242,8 +9192,6 @@
 *.prostamin-forte.com
 *.prostovit-official.site
 *.protectgreen.de
-*.protectiveproto.com
-*.protectiveskates.com
 *.protobetter.com
 *.protool-site.com
 *.protoolushouse.com
@@ -9262,7 +9210,6 @@
 *.ps-game-store.de
 *.psf-bank.com
 *.psumerman.top
-*.psychologie-gfk.at
 *.psyconsilium.de
 *.pthanse-versand.com
 *.pthanse-versand.de
@@ -9275,15 +9222,12 @@
 *.pugliainn.com
 *.pukkashopeu.com
 *.pulleysswivelsshop.com
-*.pulman-holz.com
 *.pulsefinance.de
 *.puma-austria.at
 *.puma-fi.com
 *.puma-outletosterreich.com
 *.puma-suomi.com
-*.puma-tenisky.sk
 *.pumacredit.de
-*.pumadeutschland.de
 *.pumafi.com
 *.pumafinland.com
 *.pumaosterreich.at
@@ -9308,7 +9252,6 @@
 *.pylomo.de
 *.pyro-effects.com
 *.pyro-expression.com
-*.pyromax.at
 *.pyroxtrem.com
 *.pyvigo.com
 *.pzbhold-auto.com
@@ -9324,7 +9267,6 @@
 *.qqffttk.top
 *.qrc-handel.com
 *.qsstoolsover.com
-*.qualitats-pellet.com
 *.qualites.store
 *.qualityhometool.com
 *.qualityhouse-us.com
@@ -9351,7 +9293,6 @@
 *.ra-das.de
 *.ra-feuerlein.de
 *.ra-ganske.de
-*.ra-gleissner.de
 *.raab-reifen.com
 *.raasen.com
 *.rabaisdepot.com
@@ -9425,12 +9366,10 @@
 *.radiortn.de
 *.radioustrendy.com
 *.radlerfun.de
-*.radonfahrrad.com
 *.radonsale.com
 *.radsportbekleidung.net
 *.radsporttrikotoutlet.de
 *.radtke-reifen.com
-*.radyo-muzik.com
 *.radyoplatin.com
 *.raealed.club
 *.raeder-ihr-fachmarkt.net
@@ -9443,15 +9382,12 @@
 *.raimentussite.com
 *.rainbowrckids.com
 *.rainbowreiki-hn.de
-*.rainbowtownmall.com
 *.rainer-baumarkt.de
 *.rainsdescuento.com
 *.rakuten-online.de
 *.ramonlabrador.de
 *.rampado.de
 *.ramsgil.com
-*.ranchmenshop.com
-*.randalu.de
 *.randerer.eu
 *.randolphosterreich.com
 *.random-item.com
@@ -9479,7 +9415,6 @@
 *.rbsfinanceinc.com
 *.rbtoysopt.com
 *.rbvin.com
-*.rc-laserbeschriftung.de
 *.rc-uniline.com
 *.rc-versand.com
 *.rcarrowmax.com
@@ -9498,7 +9433,6 @@
 *.rczubehr.de
 *.rdoering.de
 *.re-igraal.com
-*.react-dady.com
 *.reactsport.de
 *.readyshop.xyz
 *.realestate-unique.com
@@ -9507,7 +9441,6 @@
 *.reality-golf.com
 *.realitymenswear.com
 *.realizetour.it
-*.reasy-software.com
 *.reasy-software.net
 *.rebateclothing.com
 *.rebateknife.com
@@ -9528,7 +9461,6 @@
 *.reborntraumland.de
 *.recetasplus.com
 *.recuirud.com
-*.red-energie.com
 *.redactjuri.fr
 *.redaut.cc
 *.redflix.de
