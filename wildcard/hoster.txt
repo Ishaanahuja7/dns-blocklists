@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Dec 2023 23:05 UTC
-# Version: 2023.1204.2305.10
+# Last modified: 05 Dec 2023 23:16 UTC
+# Version: 2023.1205.2316.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1995
+# Number of entries: 1992
 #
 *.000a.de
 *.000space.com
@@ -1278,7 +1278,6 @@
 *.mozello.com
 *.mp3.cr
 *.mpeblog.com
-*.mrmaccaroni.it
 *.muf.mobi
 *.multiblog.com
 *.multiply.com
@@ -1373,7 +1372,6 @@
 *.npx.de
 *.nstemp.com
 *.number1store.pl
-*.nuovasantambrogio.it
 *.nut.cc
 *.nuvox.net
 *.blogs.nytimes.com
@@ -1459,7 +1457,6 @@
 *.phpnet.org
 *.phpnet.us
 *.piczo.com
-*.pievebornato.it
 *.pillowfort.io
 *.pimpedhost.com
 *.pirchio.com

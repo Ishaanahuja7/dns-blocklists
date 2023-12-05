@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Dec 2023 23:05 UTC
-# Version: 2023.1204.2305.10
+# Last modified: 05 Dec 2023 23:16 UTC
+# Version: 2023.1205.2316.52
 # Syntax: DNSMasq
-# Number of entries: 1995
+# Number of entries: 1992
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -1278,7 +1278,6 @@ address=/mops-belchatow.pl/#
 address=/mozello.com/#
 address=/mp3.cr/#
 address=/mpeblog.com/#
-address=/mrmaccaroni.it/#
 address=/muf.mobi/#
 address=/multiblog.com/#
 address=/multiply.com/#
@@ -1373,7 +1372,6 @@ address=/now.lc/#
 address=/npx.de/#
 address=/nstemp.com/#
 address=/number1store.pl/#
-address=/nuovasantambrogio.it/#
 address=/nut.cc/#
 address=/nuvox.net/#
 address=/blogs.nytimes.com/#
@@ -1459,7 +1457,6 @@ address=/phpbb.net/#
 address=/phpnet.org/#
 address=/phpnet.us/#
 address=/piczo.com/#
-address=/pievebornato.it/#
 address=/pillowfort.io/#
 address=/pimpedhost.com/#
 address=/pirchio.com/#
