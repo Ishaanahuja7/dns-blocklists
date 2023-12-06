@@ -436,6 +436,7 @@
 /(\.|^)dinly\.co$/
 /(\.|^)discord\.gg$/
 /(\.|^)discvr\.co$/
+/(\.|^)dis\.gd$/
 /(\.|^)di\.sn$/
 /(\.|^)disq\.us$/
 /(\.|^)dis\.tl$/

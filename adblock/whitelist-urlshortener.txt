@@ -438,6 +438,7 @@
 @@||di.sn^
 @@||dibb.me^
 @@||dinly.co^
+@@||dis.gd^
 @@||dis.tl^
 @@||discord.gg^
 @@||discvr.co^
