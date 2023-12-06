@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Dec 2023 23:38 UTC
-# Version: 2023.1204.2338.03
+# Last modified: 05 Dec 2023 23:49 UTC
+# Version: 2023.1205.2349.57
 # Syntax: Domains (without subdomains)
-# Number of entries: 974
+# Number of entries: 970
 #
 000.pe
 000nethost.com
@@ -15,9 +15,11 @@
 000webhostapp.com
 0j.wf
 0pe.kr
+1717.1000uc.com
+soft.110route.com
 1395867912.pw
+1ecosolution.it
 2019mfa.com
-x.233sy.cn
 2waky.com
 3-a.net
 33rdderryscouts.com
@@ -50,11 +52,10 @@ dl.1003b.56a.com
 abissnet.net
 library.arihantmbainstitute.ac.in
 iccscem.ac.in
-imit.ac.in
-partadino.ac.ug
 acc-disbsupportcenter.info
 ackng.com
 addressrevise.com
+addtactical.com
 adrorobert.pl
 www.geovanisantos.adv.br
 adyboh.com
@@ -62,6 +63,7 @@ aepcide.com
 agies.org
 agnieszkaklaudia.pl
 aioecoin.org
+airhobi.com
 akadns.live
 akadns.services
 register.akamaized.ca
@@ -79,7 +81,6 @@ amarresyhechizosdepanama.com
 pandorabackup-1322908155.us-west-2.elb.amazonaws.com
 pandoramain-1794008345.us-west-2.elb.amazonaws.com
 ambernook.uk
-anapa-zarya.ru
 andalog.de
 androidadbserver.com
 angoraveteriner.com
@@ -90,21 +91,19 @@ aq2e.com
 aqamerexfrugte.cf
 arabi-onlinee.com
 argenferia.com
-aristonbentre.com
 arogyapatholab.in
 artmediastudio.ro
 arturszymczak.pl
 arw-rohstoffhandel.com
 asterglobal.com
+athadnw.com
 atikmdagpatcher.com
 avrmxinvestment.net
 awcna.com
 axelmetals.cc
-azmeasurement.com
 azurehosting.co
 b0tnet.com
 babytoy-online.com
-api.baimless.com
 baldiesbbq.shop
 balena-etcher.com
 banking-dbs.co
@@ -135,7 +134,6 @@ bontiakhotel.net
 booksun.live
 borgomaira.it
 borrelioseweb.de
-bossajazzbrasil.com
 bowwe-site.com
 breakvigergisand.cf
 british-shorthair.es
@@ -146,6 +144,7 @@ apz.bsaldo.com
 btvapp.net
 byinter.net
 cacheoffer.tk
+dlink.caesarsgroup.top
 download.caihong.com
 camminachetipassa.it
 canconsulting.in
@@ -173,7 +172,6 @@ chalaogong.top
 chalvshe.top
 chameinv.top
 chamitan.top
-chashni.co
 chashouji.top
 chataren.top
 chatdouyin.top
@@ -183,6 +181,7 @@ chaweixin.top
 chaweizi.top
 che-web.eu
 checkba.top
+chemsky.tn
 downloadplus.chromiums.org
 chuckozeas.com
 chuguichaxun.top
@@ -197,28 +196,32 @@ cloudlets.zone
 b.clu-e.eu
 support.clz.kr
 agemn.co.za
+angeljuicer.co.nz
 aosafrica.co.za
+bigmikesupplies.co.za
 councilrespect.co.in
 destinymc.co.za
+drhanneserasmus.co.za
 emaids.co.za
-growrock.co.za
 hopvibestravel.co.za
 imbueautoworx.co.za
 www.jyotigroup.co.in
 kakaopv.co.kr
-dating.khokhas.co.za
-lakuiksong.known.co.ke
 laforma.co.za
 madicon.co.za
 mumgee.co.za
+networkwheels.co.za
 olugun.co.za
 qcollect.co.za
+sainzim.co.za
+spaceframe.mobi.space-frame.co.za
 spacetrack.co.tz
 thekassia.co.uk
 superstar.tibolts.co.uk
 travelwithmanta.co.za
 my-sbox.trns.co.za
 wmctc.co.uk
+coadymarine.com
 api-ms.cobainaja.id
 coddes.top
 codeanyapp.com
@@ -227,15 +230,12 @@ colegiojuanbernardone.com
 mail.alphaassessoriato.com.br
 ameliagosia.com.pl
 asiflyerbio.com.cn
-atomm.com.br
-bearcatpumps.com.cn
 budimal.com.pl
 cdaonline.com.ar
 dhnconstrucciones.com.ar
 elevecosmeticos.com.br
 erkaradyator.com.tr
 famesa.com.ar
-fusaopre.com.br
 graficaaoquadrado.com.br
 grzegorzkulik.com.pl
 hapvidacaruaru.com.br
@@ -244,21 +244,21 @@ www.hey-randomgirl.com.br
 jolantabartnik.com.pl
 karapinarhaber.com.tr
 kest.com.pe
+proativa.konkisti.com.br
 krzysztofsikora.com.pl
 lindenconsultoria.com.br
 live.com.gt
 lostheaven.com.cn
+medcar.com.tn
 microtrimsltd.com.bd
 www.movidoc.com.br
 oazahotel.com.mk
 pablobrothel.com.ar
 palharesinformatica.com.br
-e-commerce.saleensuporte.com.br
 spices.com.sg
 tataras.com.pl
 visiontotal.com.co
 vkengcivil.com.br
-vollfisioterapia.com.br
 vrport.com.au
 com-ho.me
 comesltaly.com
@@ -279,10 +279,10 @@ crapses.pl
 crz.de
 csgoxdomain.us
 cursodeparapsicologia.org
-cynorix.com
 static.cz01.cn
 dacsandongthapmuoi.vn
 dacui.online
+damned-2024.com
 darekfurtak.pl
 dbmobile-phototan.de
 dcylog.com
@@ -299,7 +299,6 @@ records.dennisign.se
 derekludlow.com
 deutschebank-service.de
 devises-dz.com
-demo.devswire.com
 china.dhabigroup.top
 dhi-mox-ei.top
 diacolnocalyvi.tk
@@ -315,15 +314,14 @@ divides.xyz
 diwodiwo.xyz
 dleggere.com
 dnsnb8.net
-dokumentasoluciones.com
 domallpl.pl
 donkeytourscroatia.com
 doodlesz.app
 doorcat.quest
 dostawa-id.live
 download.doumaibiji.cn
+downloayxkemam.sbs
 driverclub.co
-droomsoft.com
 wordpress.ductai.xyz
 dukaree.com
 dummy280280.net
@@ -340,7 +338,7 @@ ecox.pt
 interpol.edu.pl
 eehxhl.com
 eiyfmrn.com
-elvalledetarrazu.com
+et3.ektpnc.com
 emplojo.com
 emsapps.net
 pake.endofinternet.org
@@ -375,12 +373,12 @@ flauntstaluhet.website
 fleek.one
 flyermobi.com
 fnx.wf
+foodremit.com
 foxfilehost.fun
 fr.gd
 freay.tech
 freconmieetfinances.com
 freetcp.com
-frezzyhook.com
 funletters.net
 fusiondim.com
 www.roofing.galacticleads.com
@@ -399,6 +397,7 @@ globallaborsupply.com
 glthub.org
 glycpolsbeel.cf
 pn-raha.go.id
+gobesitysurgery.com
 gokcevizyon.com
 golancat.com
 gomlgaming.dev
@@ -408,6 +407,7 @@ granticket.com
 greenisco.com
 grovv.ru
 grupomasis.com
+orsan.gruporhynous.com
 grzegorzku.pl
 gthub.org
 gupshap.com
@@ -427,10 +427,11 @@ hitstation.nl
 hklae.pl
 hmyjc.cn
 hnalkhedmad.com
-yp.hnggzyjy.cn
 homewrt.com
 hoster-test.ru
 hostigram.xyz
+houssagynecologue.com
+hseda.com
 hugeversapi.com
 hunggiang.vn
 hwthurmann.de
@@ -466,7 +467,6 @@ spiewak.info.pl
 transprt.info.pl
 waldemar.info.pl
 information3413.cloud
-ingonherbal.com
 insp1re.online
 institut-corps-a-ligne.fr
 intellectproactive.com
@@ -486,12 +486,13 @@ jhayesconsulting.com
 jiasuba.top
 jiudianruzhu.top
 jkhrs.pl
+jobcity.com
 jointings.org
 justns.ru
 justplay.asia
 jzm.pw
-jual.kacangmete.com
 kaifangjilu.top
+kalp-s.com
 kamura.pl
 kevinley.com
 kimyen.net
@@ -529,7 +530,6 @@ linkvilleplayers.org
 linuxupdate.info
 lisagos.pl
 listviewss.com
-livetrack.in
 llcdn.eu
 localbitcoin.us
 localto.net
@@ -540,7 +540,6 @@ lound.xyz
 lsopas.pl
 lubpl.pl
 luxurypropertiesfl.com
-xt.lykj988.com
 lyra.build
 m0.yt
 m1m1mapi.com
@@ -562,17 +561,15 @@ marcukesh.top
 marekgw.pl
 marksidfgs.ug
 marquesvogt.com
-massagemtantrica.pt
 masterch.top
 maticsurefmo.cf
 dienmay01.maudemo.com
 maxiimus.top
+maxmoney.com
 maxuikl.top
 maxximbrasil.com
 mbgrm.com
 mbmistaz.com
-medfioytrkdkcodlskeej.net
-downloads.media-talk.ru
 meeweb.com
 mefound.com
 mensmem.buzz
@@ -585,12 +582,13 @@ metabrastaxenis.com
 metalpark.pt
 mfalkowska.pl
 ok3.mflve.com
+miateknik.com
 microsecurityupdate.com
 microsoftonline.services
 microsoftonlines.net
+360down7.miiyun.cn
 mitanren.top
 mithransilks.com
-mittmexico.com
 mkrissd.pl
 mls-test.ch
 monikajoanna.pl
@@ -606,6 +604,7 @@ mrugalla.pl
 msteam.biz
 msteampremium.online
 multiaccess.co
+mumayizat.com
 muzzumilruheel.com
 mwgq.net
 gtz.my.id
@@ -625,6 +624,7 @@ mynashvillestudio.com
 mynetav.com
 mys2018.xyz
 mysura.it
+namthaibinh.net
 nasdr.pl
 navercloud.org
 demo.nessotechbd.com
@@ -652,18 +652,19 @@ nskfyl.com
 nvidiainspector.ru
 o7car.com
 obokay.com
+oceancityrentalbyowner.com
 oferta.us
 google.off.ai
 officeloftu.com
 romatotti520.oicp.io
 olnbvcg--exzytbuui.top
-utente.online-portale.me
+online-cloud.info
 onlinedesignstudio.net
 onlineprog.top
 oo000oo.club
 oops.best
 opesjk.ug
-bluethunders.or.jp
+orderedami.com
 orders94851.info
 krakowiak.org.pl
 nsb.org.uk
@@ -678,13 +679,13 @@ caching.oysterfloats.com
 workout.oystergardener.net
 layout.oystergardens.us
 sync.oystergardens.club
+dl.packetstormsecurity.net
 youcinetv.page.link
 pampopholf.com
 pcn.panddna.com
 parrotbay.net
 pass-login.com
 pawlukojc.pl
-down.pcclear.com
 download.pdf00.cn
 pdns.cz
 imgdsg4f35.permalinking.com
@@ -711,13 +712,11 @@ po9h4c.com
 pobetransh.com
 pol.beauty
 ponizinny.nl
-ponyexpress.site
 portmap.host
 posmicrosystems.com
 ws3.pph-server.de
 prephe.ro
 prestazione-eur.info
-prestigehomeautomation.net
 3233.privado.info
 programmtrad.top
 programtts.top
@@ -729,6 +728,7 @@ psf-store.net
 punkdns.pw
 punkdns.top
 purocueroecuador.com
+pvp-rivals.com
 q0.pm
 q0.wf
 qji6.com
@@ -737,6 +737,8 @@ qnotice.com
 qpoe.com
 qqchaxun.top
 quansj.cn
+quizbn.com
+rangshila.com
 rapiddns.ru
 rdwrtu.cn
 kif.re.kr
@@ -744,6 +746,7 @@ realnewstime.xyz
 realtimenews.tk
 realvnc.pro
 reifenquick.de
+reiwo-service.de
 7fec6270ed.repl.co
 reservation80712.cloud
 reservation87839.cloud
@@ -751,10 +754,10 @@ resmi-id.art
 resourceedge.org
 rewardsgiant-au.com
 richterhi-tech.com
-rimatextile.com
 ritikajoshi.com
 riva-tuner.com
 parallel.rockvideos.at
+rodhigital.com
 rollsbeer.com
 romvalstudios.com
 rowingmachine.sydney
@@ -762,11 +765,10 @@ rozwojai.com
 rp-online-dating.de
 rs83.com
 rusticironstore.com
-rydbergaren.se
 ryzen-master.com
 sadeemapk.com
 saf-oil.ru
-safetygear.pk
+apps.saintsoporte.com
 sapiens-services.com
 sapphiretrixx.com
 saraa.shop
@@ -783,15 +785,14 @@ serveuser.com
 servisaludocupacional.pe
 sevensmbk.is
 sga.bet
+shahu66.com
 shangtuke.cn
 shavsl.com
 shengen.ru
-shipminttracking.net
 shoefire.life
 shop6.shop
 shopsgat.com
 sibcomputer.ru
-sierrafoodcorp.com
 sin88.biz
 sinerptuasiewo.com
 site-manager.eu
@@ -813,7 +814,6 @@ ss.la
 sslblindado.com
 ssmailer.com
 starcountry.net
-stayinoceancitymd.com
 steamauthenticator.net
 steamdesktopauthenticator.net
 steamdesktopauthenticator.org
@@ -871,16 +871,16 @@ trprogonline.top
 trtmyanmar.com
 ttssonine.top
 tujas.pl
+tungphamblog.com
 tuquy.com
 tuuups.pl
 twizt.net
 test.typoten.com
 uclck.ru
 d1.udashi.com
-down.udashi.com
 uizlet.live
 ulti-mate.com
-files5.uludagbilisim.com
+umutsoydinc.com
 unapromo.com
 unhamj.com
 unicorpbrunei.com
@@ -888,7 +888,6 @@ test.uniformmarkets.com
 unispace.io
 unkinerecle.com
 unkorakite.cf
-unlockingdreamsfinancial.com
 up-official.site
 upanfile.com
 urlgalleries.net
@@ -902,7 +901,6 @@ videodaewoo.pw
 villala5nt.life
 upload.vina-host.com
 vipysknik.by
-sos.vivi.sg
 vividrriver.pw
 vizvaz.com
 vmlx98.codes
@@ -912,7 +910,6 @@ vpnfortres.online
 hr2019.vrcom7.com
 vs.gy
 w0.pm
-walkindrivetoday.com
 walkinglate.com
 walletdappfixed.net
 badura.warszawa.pl
@@ -935,10 +932,8 @@ wiljot.pl
 windcomtechnologies.com
 winkaros.ru
 winning-drinks.com
-wispafoods.com
 wixzey.com
 wntrk.pl
-wolfervpn.com
 womenforum.top
 work.gd
 workerhand.link
@@ -968,6 +963,7 @@ ysbaojia.com
 yzkzixun.com
 z-lib.is
 zakresnynaya.pl
+zaofisa.net
 zap-webspace.com
 zbigniewkaluga.pl
 zexeq.com
