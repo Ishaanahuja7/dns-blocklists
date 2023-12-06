@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 7 days
-! Last modified: 05 Dec 2023 23:13 UTC
-! Version: 2023.1205.2313.11
+! Last modified: 06 Dec 2023 23:03 UTC
+! Version: 2023.1206.2303.54
 ! Syntax: AdBlock
-! Number of entries: 840
+! Number of entries: 839
 !
 ||ns.00dani.me^
 ||cdn.0ms.dev^
@@ -810,7 +810,6 @@
 ||dns.uplenk.com^
 ||adfree.usableprivacy.net^
 ||use-application-dns.net^
-||neatdns.ustclug.org^
 ||tor.vasi.li^
 ||dns.vinnyp.xyz^
 ||dns.vinokurov.tk^

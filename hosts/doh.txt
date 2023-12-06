@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 05 Dec 2023 23:13 UTC
-# Version: 2023.1205.2313.11
+# Last modified: 06 Dec 2023 23:03 UTC
+# Version: 2023.1206.2303.54
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 981
+# Number of entries: 980
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 cdn.0ms.dev
@@ -946,7 +946,6 @@
 0.0.0.0 dns.uplenk.com
 0.0.0.0 adfree.usableprivacy.net
 0.0.0.0 use-application-dns.net
-0.0.0.0 neatdns.ustclug.org
 0.0.0.0 tor.vasi.li
 0.0.0.0 dns.vinnyp.xyz
 0.0.0.0 dns.vinokurov.tk
