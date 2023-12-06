@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701644640 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701903960 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 03 Dec 2023 23:04 UTC
-; Version: 2023.1203.2304.21
+; Last modified: 06 Dec 2023 23:06 UTC
+; Version: 2023.1206.2306.10
 ; Syntax: RPZ
-; Number of entries: 2966
+; Number of entries: 2960
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1742,8 +1742,6 @@ pudim.info CNAME .
 *.pudim.info CNAME .
 selfip.info CNAME .
 *.selfip.info CNAME .
-shitcunt.info CNAME .
-*.shitcunt.info CNAME .
 squirly.info CNAME .
 *.squirly.info CNAME .
 toh.info CNAME .
@@ -1860,8 +1858,6 @@ onionsallyear.mobi CNAME .
 *.onionsallyear.mobi CNAME .
 ddns.ms CNAME .
 *.ddns.ms CNAME .
-uk.ms CNAME .
-*.uk.ms CNAME .
 69.mu CNAME .
 *.69.mu CNAME .
 pics.mu CNAME .
@@ -2800,8 +2796,6 @@ biz.st CNAME .
 *.biz.st CNAME .
 k22.su CNAME .
 *.k22.su CNAME .
-rpz.su CNAME .
-*.rpz.su CNAME .
 skc.su CNAME .
 *.skc.su CNAME .
 root.sx CNAME .
