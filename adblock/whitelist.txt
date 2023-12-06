@@ -5804,3 +5804,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1897
 @@|backgrounds.wetransfer.net^
 
+! https://github.com/hagezi/dns-blocklists/issues/1900
+@@|as1.abigames.com.vn^
+
