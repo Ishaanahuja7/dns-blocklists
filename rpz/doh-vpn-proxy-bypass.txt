@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701817800 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701903660 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 05 Dec 2023 23:10 UTC
-; Version: 2023.1205.2310.49
+; Last modified: 06 Dec 2023 23:01 UTC
+; Version: 2023.1206.2301.29
 ; Syntax: RPZ
-; Number of entries: 5318
+; Number of entries: 5292
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -89,8 +89,6 @@ supervpn.best CNAME .
 *.supervpn.best CNAME .
 vpns.best CNAME .
 *.vpns.best CNAME .
-webproxy.best CNAME .
-*.webproxy.best CNAME .
 anonyproxy.biz CNAME .
 *.anonyproxy.biz CNAME .
 ewon.biz CNAME .
@@ -1891,8 +1889,6 @@ squidproxyserver.com CNAME .
 *.squidproxyserver.com CNAME .
 ssh-free.com CNAME .
 *.ssh-free.com CNAME .
-sshcdn.com CNAME .
-*.sshcdn.com CNAME .
 sshkit.com CNAME .
 *.sshkit.com CNAME .
 sshocean.com CNAME .
@@ -2723,8 +2719,6 @@ sslpro.eu CNAME .
 *.sslpro.eu CNAME .
 ukwebproxy.eu CNAME .
 *.ukwebproxy.eu CNAME .
-unblockfacebook.eu CNAME .
-*.unblockfacebook.eu CNAME .
 usaip.eu CNAME .
 *.usaip.eu CNAME .
 workhost.eu CNAME .
@@ -3155,10 +3149,6 @@ vpnanonym.info CNAME .
 *.vpnanonym.info CNAME .
 vpnapp.info CNAME .
 *.vpnapp.info CNAME .
-vpnfree.info CNAME .
-*.vpnfree.info CNAME .
-vpnhost.info CNAME .
-*.vpnhost.info CNAME .
 vpnproxy.info CNAME .
 *.vpnproxy.info CNAME .
 webypass.info CNAME .
@@ -4135,8 +4125,6 @@ stayhidden.net CNAME .
 *.stayhidden.net CNAME .
 dns.stevenz.net CNAME .
 *.dns.stevenz.net CNAME .
-sudoproxy.net CNAME .
-*.sudoproxy.net CNAME .
 sunvpn.net CNAME .
 *.sunvpn.net CNAME .
 supervpn.net CNAME .
@@ -4313,8 +4301,6 @@ dns.theres.one CNAME .
 *.dns.theres.one CNAME .
 unblockit.one CNAME .
 *.unblockit.one CNAME .
-unblockweb.one CNAME .
-*.unblockweb.one CNAME .
 unblockit.onl CNAME .
 *.unblockit.onl CNAME .
 dns.apigw.online CNAME .
@@ -4325,8 +4311,6 @@ speedproxy.online CNAME .
 *.speedproxy.online CNAME .
 unblocksites.online CNAME .
 *.unblocksites.online CNAME .
-unblockwebsite.online CNAME .
-*.unblockwebsite.online CNAME .
 uproxy.online CNAME .
 *.uproxy.online CNAME .
 webproxy.online CNAME .
@@ -4609,12 +4593,6 @@ us-proxy.org CNAME .
 *.us-proxy.org CNAME .
 usa-proxy.org CNAME .
 *.usa-proxy.org CNAME .
-neatdns.ustclug.org CNAME .
-*.neatdns.ustclug.org CNAME .
-vpn.vokuev.org CNAME .
-*.vpn.vokuev.org CNAME .
-vps.vokuev.org CNAME .
-*.vps.vokuev.org CNAME .
 vpn.org CNAME .
 *.vpn.org CNAME .
 vpnpie.org CNAME .
@@ -4807,8 +4785,6 @@ lion.dns.qwer.pw CNAME .
 *.lion.dns.qwer.pw CNAME .
 tiger.dns.qwer.pw CNAME .
 *.tiger.dns.qwer.pw CNAME .
-t2w.pw CNAME .
-*.t2w.pw CNAME .
 vpnfast.pw CNAME .
 *.vpnfast.pw CNAME .
 vpnproxy.pw CNAME .
@@ -4965,8 +4941,6 @@ dns.melalandia.tk CNAME .
 *.dns.melalandia.tk CNAME .
 dns.vinokurov.tk CNAME .
 *.dns.vinokurov.tk CNAME .
-vpnproxy.tk CNAME .
-*.vpnproxy.tk CNAME .
 darknet.to CNAME .
 *.darknet.to CNAME .
 nvpn.to CNAME .
