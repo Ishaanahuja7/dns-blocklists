@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 7 days
-# Last modified: 04 Dec 2023 23:20 UTC
-# Version: 2023.1204.2320.49
+# Last modified: 06 Dec 2023 23:24 UTC
+# Version: 2023.1206.2324.20
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 406
+# Number of entries: 403
 #
 *.docs-frontier-sg.byteoversea.com
 *.frontier.byteoversea.com
@@ -128,8 +128,6 @@
 *.analytics-sg.tiktok.com
 *.analytics-test.tiktok.com
 *.analytics-useast2a.tiktok.com
-*.analytics-usexperimentast2a.tiktok.com
-*.analytics-sg.athena-sg.tiktok.com
 *.business-api.tiktok.com
 *.eurekaanalytics-attribution.012gh.developer-sg.tiktok.com
 *.analytics-edgecom.developer-sg.tiktok.com
@@ -302,7 +300,6 @@
 *.mon32-normal-alisg.tiktokv.com
 *.mon32-normal-useast1a.tiktokv.com
 *.monbk.tiktokv.com
-*.monitoring.tiktokv.com
 *.mssdk-i18n.tiktokv.com
 *.mssdk-phx.tiktokv.com
 *.mssdk-quic-i18n.tiktokv.com

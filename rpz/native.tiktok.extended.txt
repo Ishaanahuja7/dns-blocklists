@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1701732000 43200 3600 259200 300
+@ SOA localhost. root.localhost. 1701905040 43200 3600 259200 300
   NS  localhost.
 ;
 ; Title: HaGeZi's TikTok Extended Fingerprinting DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 300
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 7 days
-; Last modified: 04 Dec 2023 23:20 UTC
-; Version: 2023.1204.2320.49
+; Last modified: 06 Dec 2023 23:24 UTC
+; Version: 2023.1206.2324.20
 ; Syntax: RPZ
-; Number of entries: 812
+; Number of entries: 806
 ;
 docs-frontier-sg.byteoversea.com CNAME .
 *.docs-frontier-sg.byteoversea.com CNAME .
@@ -252,10 +252,6 @@ analytics-test.tiktok.com CNAME .
 *.analytics-test.tiktok.com CNAME .
 analytics-useast2a.tiktok.com CNAME .
 *.analytics-useast2a.tiktok.com CNAME .
-analytics-usexperimentast2a.tiktok.com CNAME .
-*.analytics-usexperimentast2a.tiktok.com CNAME .
-analytics-sg.athena-sg.tiktok.com CNAME .
-*.analytics-sg.athena-sg.tiktok.com CNAME .
 business-api.tiktok.com CNAME .
 *.business-api.tiktok.com CNAME .
 eurekaanalytics-attribution.012gh.developer-sg.tiktok.com CNAME .
@@ -600,8 +596,6 @@ mon32-normal-useast1a.tiktokv.com CNAME .
 *.mon32-normal-useast1a.tiktokv.com CNAME .
 monbk.tiktokv.com CNAME .
 *.monbk.tiktokv.com CNAME .
-monitoring.tiktokv.com CNAME .
-*.monitoring.tiktokv.com CNAME .
 mssdk-i18n.tiktokv.com CNAME .
 *.mssdk-i18n.tiktokv.com CNAME .
 mssdk-phx.tiktokv.com CNAME .
